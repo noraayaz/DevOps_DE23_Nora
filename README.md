@@ -23,3 +23,4 @@ Inlämningsuppgift: Individuell | GitHub Actions
 *  index.html and script.js files have been updated to get the current date
 
 *  main.yml is created
+![page screenshot](https://github.com/noraayaz/DevOps_DE23_Nora/assets/112772013/55c95c17-eacd-4d97-98a7-1b4110ec6109)
