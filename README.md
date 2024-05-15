@@ -1,6 +1,6 @@
 ﻿# DevOps_DE23_Nora
 
-Inlämningsuppgift: Individuell | GitHub Actions 
+Inlämningsuppgift: Individuell | GitHub Actions | CICD Pipeline
 
 *  Repository named DevOps_DE23_Nora created
 
