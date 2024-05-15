@@ -1,0 +1,1001 @@
+Givenname,Surname,Streetaddress,City,Zipcode,Country,CountryCode,NationalId,TelephoneCountryCode,Telephone,Birthday,ConsentToContact
+Sverre,Mathisen,Moenroa 8,Thomassen,4873,Norge,NO,19520519-3590,+47,+47 36 58 40 93,1952-05-19,True
+Egon,Johansson,Ängstorget 92,Gävle,30902,Sverige,SE,19660925-9868,+46,+46 (0)8 301 204 03,1966-09-25,True
+Börje,Larsson,Ängsgatan 69,Linköping,55053,Sverige,SE,19830127-9972,+46,+46 (0)804 445 15,1983-01-27,True
+Elisabeth,Eriksson,Björkgatan 0,Trollhättan,86420,Sverige,SE,19970831-6506,+46,+46 (0)63 43 41 40,1997-08-31,True
+Maren,Ali,Kristoffersenengen 2,Martestad,6493,Norge,NO,19440207-6058,+47,907 61 693,1944-02-07,True
+Hanna,Lind,Granvägen 772,Borlänge,66875,Sverige,SE,19710320-1761,+46,0134-477 57,1971-03-20,True
+Raymond,Lewis,Austin Knolls 62109,West Laura,51048,Danmark,DK,19631215-4599,+45,383-303-1807x66547,1963-12-15,True
+Elizabeth,Fitzgerald,James Mission 798,Juanland,43628,Danmark,DK,19650209-2589,+45,001-220-606-3939x6301,1965-02-09,True
+Ingeborg,Haugland,Ahmedgjerdet 7,Mikkelsen,3384,Norge,NO,19750830-6004,+47,82030924,1975-08-30,True
+Marjatta,Nissinen,Jälsikatu 61,Iisalmi,90223,Finland,FI,19580508-470D,+358,+358 72 4417324,1958-05-08,True
+Ulf,Abrahamsson,Gengatan 237,Östersund,75302,Sverige,SE,19720827-0032,+46,098-48 40 92,1972-08-27,True
+Inger,Andreasson,Nygränd 03,Lidingö,57046,Sverige,SE,19681209-5524,+46,+46 (0)31 40 28 66,1968-12-09,True
+Karin,Nilsson,Skogsgränd 836,Örebro,70917,Sverige,SE,19740519-2589,+46,+46 (0)8 220 712 92,1974-05-19,True
+Henry,Persson,Idrottsgatan 60,Kristianstad,66396,Sverige,SE,19621031-9703,+46,0541-71 86 38,1962-10-31,False
+Kurt,Andersson,Industristigen 147,Sundsvall,51081,Sverige,SE,19990220-1688,+46,08-54 20 42,1999-02-20,True
+Ingela,Andreasson,Kvarngatan 2,Skövde,48333,Sverige,SE,19490112-8851,+46,+46 (0)8 022 037 07,1949-01-12,True
+Allison,Raymond,Sanders Ridges 593,Maureenborough,08091,Danmark,DK,19661007-8191,+45,698.501.7367x87766,1966-10-07,True
+Eva,Engström,Ektorget 9,Kristianstad,57322,Sverige,SE,19740507-6288,+46,+46 (0)8 992 322 34,1974-05-07,True
+Theodore,Park,Jamie Spurs 309,North Heather,52950,Danmark,DK,19550213-8021,+45,(556)369-5802,1955-02-13,True
+Birger,Olsson,Storvägen 395,Umeå,19337,Sverige,SE,19440722-9605,+46,0567-937 34,1944-07-22,True
+Lene,Ødegård,Edvardsenstien 2B,Karendal,1434,Norge,NO,19400520-4537,+47,23190075,1940-05-20,True
+Gregory,Noble,Shawn Plain 99656,Port Danielle,63945,Danmark,DK,19860529-2319,+45,354-222-2778,1986-05-29,True
+Bertil,Jonsson,Kyrkgränd 432,Trollhättan,67294,Sverige,SE,19880727-9525,+46,+46 (0)8 247 468 51,1988-07-27,True
+Gustav,Johansson,Kyrkgatan 915,Karlstad,98586,Sverige,SE,19840123-1048,+46,0730-43 12 48,1984-01-23,True
+Ashley,Martin,Joseph Fords 8066,Harrisburgh,36209,Danmark,DK,19840301-3908,+45,313.861.0380x8027,1984-03-01,True
+Cecilia,Andersson,Kvarnstigen 00,Falun,44584,Sverige,SE,19520810-4828,+46,+46 (0)8 908 856 65,1952-08-10,True
+Elisabet,Eriksson,Skolgränd 6,Lidingö,35074,Sverige,SE,19960326-5097,+46,08-694 83 57,1996-03-26,True
+Göran,Karlsson,Villavägen 98,Karlskoga,14949,Sverige,SE,19841116-6379,+46,005-69 71 17,1984-11-16,True
+Ivar,Hagen,Jacobsentjernet 7,Aasen,7563,Norge,NO,19960514-0568,+47,+47 43 58 28 68,1996-05-14,True
+Edwin,Trevino,Mccoy Curve 726,North Patrick,66569,Danmark,DK,19540916-4121,+45,+1-524-643-2016x519,1954-09-16,True
+Monica,Tveit,Hansenhagen 63H,Mathisen,4605,Norge,NO,19470927-4385,+47,20643887,1947-09-27,True
+Petra,Lindqvist,Ektorget 908,Södertälje,76608,Sverige,SE,19710729-2786,+46,+46 (0)215 288 57,1971-07-29,True
+Heidi,Johnsen,Hansenengen 42,Nilsen,3271,Norge,NO,19651207-8446,+47,+4745827661,1965-12-07,True
+Camilla,Andersson,Asptorget 2,Borås,27774,Sverige,SE,19660820-9440,+46,014-951 92 08,1966-08-20,True
+Kaitlyn,Ruiz,Jones Camp 867,Janetville,41863,Danmark,DK,19830212-6428,+45,+1-903-749-5876,1983-02-12,True
+Rolf,Andersson,Backvägen 8,Malmö,50646,Sverige,SE,19820116-3768,+46,031-61 04 88,1982-01-16,True
+Sara,Bakke,Sætherrøa 9H,Synnøveby,1059,Norge,NO,19610105-8073,+47,39 87 07 45,1961-01-05,True
+Petteri,Pirinen,Eduskuntapolku 8,Toivakka,23350,Finland,FI,19920325-801J,+358,004 669 7997,1992-03-25,True
+Carl,Persson,Gengränd 9,Östersund,44410,Sverige,SE,19480303-1186,+46,+46 (0)8 084 727 49,1948-03-03,True
+Erika,Mattsson,Industrigränd 776,Lidingö,43457,Sverige,SE,19820829-7779,+46,+46 (0)60 38 47 82,1982-08-29,True
+Ragnhild,Nilsen,Rønningstien 55C,Saranes,5800,Norge,NO,19741117-0054,+47,95697335,1974-11-17,True
+Dustin,Lee,Jessica Terrace 0186,Port Kimberly,60862,Danmark,DK,19611128-4682,+45,(911)603-3521,1961-11-28,True
+Jack,Brown,Brianna Extensions 509,East Patrickborough,91473,Danmark,DK,19841207-3016,+45,624-494-4331,1984-12-07,True
+Sarah,Alvarado,Christopher Expressway 47766,Lake Donna,09925,Danmark,DK,19670405-9301,+45,+1-349-311-2326x237,1967-04-05,True
+Gro,Thorsen,Danielsenbråten 94,Berge,4971,Norge,NO,19501009-5148,+47,26893416,1950-10-09,True
+Anne,Rivera,Lopez Skyway 011,West Chris,08162,Danmark,DK,19791204-9245,+45,001-724-840-1542x083,1979-12-04,True
+Nicole,Mcmillan,Jessica Port 399,New Michellebury,07152,Danmark,DK,19691119-0087,+45,001-709-806-9470x543,1969-11-19,True
+Bjørn,Nilsen,Aasenstien 3,Sindreeid,2372,Norge,NO,19891025-1169,+47,468 89 727,1989-10-25,True
+Tone,Amundsen,Kristoffersentjernet 71,Næss,9200,Norge,NO,19891112-8109,+47,69929156,1989-11-12,True
+Ulla,Norberg,Backgatan 1,Umeå,84779,Sverige,SE,19820715-4396,+46,0233-675 89,1982-07-15,True
+Daniel,Johansson,Trädgårdsstigen 93,Varberg,59619,Sverige,SE,19510515-9136,+46,+46 (0)8 273 622 07,1951-05-15,True
+Bjørn,Helland,Larsenkollen 10,Holm,8057,Norge,NO,19560606-9590,+47,03 96 18 52,1956-06-06,True
+Hans,Edlund,Ängsgatan 94,Lidingö,67259,Sverige,SE,19521104-4313,+46,034-91 65 87,1952-11-04,True
+Nils,Dahlberg,Backgatan 207,Uddevalla,90687,Sverige,SE,19450404-0932,+46,0361-290 59,1945-04-04,True
+Nils,Olofsson,Järnvägsvägen 7,Landskrona,45512,Sverige,SE,19630429-3504,+46,+46 (0)415 670 58,1963-04-29,True
+Christian,Johannessen,Liestien 47,Anitastad,2218,Norge,NO,19730803-2858,+47,34047570,1973-08-03,True
+Ingegärd,Blom,Parkgränd 5,Piteå,22728,Sverige,SE,19980620-7745,+46,+46 (0)92 52 01 57,1998-06-20,True
+Lisbeth,Åberg,Ängsvägen 19,Borås,68259,Sverigel,SE,19581029-4161,+46,036-60 68 82,1958-10-29,True
+Lennart,Svensson,Fabriksstigen 45,Piteå,34413,Sverige,SE,19530426-3908,+46,+46 (0)8 273 850 53,1953-04-26,True
+Erik,Jansson,Storstigen 02,Piteå,86016,Sverige,SE,19960726-5412,+46,+46 (0)806 169 41,1996-07-26,True
+Joona,Virtanen,Franzéninkuja 01,Lempäälä,42697,Finland,FI,19430923-237N,+358,039 341 7832,1943-09-23,True
+Anders,Aune,Nygårdgjerdet 9B,Rogerfoss,3801,Norge,NO,19400331-9094,+47,95641788,1940-03-31,True
+Lisa,Danielsson,Parktorget 0,Sundsvall,25113,Sverige,SE,19710930-8537,+46,08-729 67 09,1971-09-30,True
+Sven,Wallin,Parkvägen 641,Karlstad,45981,Sverige,SE,19460322-8058,+46,08-303 19 01,1946-03-22,True
+Helena,Persson,Skolgatan 51,Norrköping,30914,Sverige,SE,19910526-9641,+46,0535-106 03,1991-05-26,True
+Elizabeth,Ward,Watts Turnpike 443,North Darren,51971,Danmark,DK,19400727-7347,+358,(500)281-1778,1940-07-27,True
+Greta,Lindgren,Storvägen 3,Helsingborg,97472,Sverige,SE,19830727-8743,+46,026-729 76 35,1983-07-27,True
+Roberto,Hayden,Kara Shoal 895,New Stevenshire,41220,Danmark,DK,19601026-0276,+45,474.995.9666x530,1960-10-26,True
+Henrik,Tangen,Kristiansenjordet 1,Bjørgsund,7182,Norge,NO,19850621-3760,+47,69370090,1985-06-21,True
+Sofia,Karlsson,Strandvägen 7,Örnsköldsvik,18533,Sverige,SE,19660920-7736,+46,001-264 59 84,1966-09-20,True
+Alan,Castaneda,Pearson Island 06433,Port Andreafort,04972,Danmark,DK,19431002-4079,+45,415-877-2425,1943-10-02,True
+Christine,Andreasson,Kyrkstigen 16,Trelleborg,28038,Sverige,SE,19960310-1213,+46,08-13 04 77,1996-03-10,True
+Emilia,Tuominen,Agronominbulevardi 19,Keitele,44998,Finland,FI,19810909-436A,+358,0183581552,1981-09-09,True
+Marianne,Carlsson,Kyrkgatan 99,Luleå,18249,Sverige,SE,19810819-8603,+46,046-600 82 89,1981-08-19,True
+Margit,Eriksson,Parkgränd 47,Mölndal,28913,Sverige,SE,19700309-6224,+46,+46 (0)01 20 25 81,1970-03-09,True
+Sinikka,Juntunen,Runokylänkuja 0,Karijoki,22955,Finland,FI,19770518-689A,+358,+358 43 3135251,1977-05-18,True
+Hanne,Halvorsen,Danielsenengen 40,Rogernes,5103,Norge,NO,19410114-0538,+47,95 18 04 38,1941-01-14,True
+Märta,Ottosson,Villavägen 687,Skellefteå,22348,Sverige,SE,19550805-5470,+46,08-692 15 02,1955-08-05,True
+Lucas,Williams,Eric Estates 932,Parksshire,41467,Danmark,DK,19940113-9845,+45,+1-703-669-2290x798,1994-01-13,True
+Karl,Helland,Halvorsenengen 18,Halvorsen,1110,Norge,NO,19821013-6882,+47,70 80 85 39,1982-10-13,True
+Håkan,Lindén,Björkgatan 245,Eskilstuna,86250,Sverige,SE,19520402-4454,+46,08-575 669 05,1952-04-02,True
+Maria,Hansson,Järnvägsgatan 4,Göteborg,65827,Sverige,SE,19850217-2966,+46,0099-775 03,1985-02-17,True
+Sander,Eide,Bergeplassen 1,Kristianeid,1213,Norge,NO,19940913-0710,+47,985 29 168,1994-09-13,True
+Alexander,Nilsson,Fabriksgatan 67,Karlskrona,95239,Sverige,SE,19880216-4937,+46,08-979 56 95,1988-02-16,True
+Edward,Cook,Francisco Light 51679,Stephanieton,20968,Danmark,DK,19600826-9227,+45,549-489-5443x09564,1960-08-26,True
+Emanuel,Bengtsson,Strandtorget 42,Lidingö,28648,Sverige,SE,19591206-7475,+46,+46 (0)57 80 49 87,1959-12-06,False
+Stig,Johansson,Björkgränd 231,Uddevalla,76822,Sverige,SE,19710703-4977,+46,0415-15 53 03,1971-07-03,True
+Henrikki,Seppänen,Maasalonkuja 3,Pieksämäki,74151,Finland,FI,19830908-010M,+358,+358121720934,1983-09-08,True
+Tyler,Wells,Gina Fall 30756,West Samuel,62187,Danmark,DK,19510319-1818,+45,7792276189,1951-03-19,True
+Linda,Bengtsson,Furugatan 5,Örebro,75256,Sverige,SE,19450721-6906,+46,08-296 679 81,1945-07-21,True
+Marianne,Gustafsson,Skolgatan 2,Borlänge,40547,Sverige,SE,19450827-0469,+46,08-40 38 56,1945-08-27,True
+Jukka,Korhonen,Fagottibulevardi 1,Hailuoto,11353,Finland,FI,19621217-686K,+358,037 295 4453,1962-12-17,True
+Kristiina,Niemi,Eino Leinon katu 9,Myrskylä,35030,Finland,FI,19920610-864Y,+358,+358 36 2646450,1992-06-10,True
+Ivan,Franzén,Industrivägen 22,Skövde,37371,Sverige,SE,19880330-0189,+46,+46 (0)8 494 002 22,1988-03-30,True
+Karl,Karlsson,Parkgränd 2,Östersund,74855,Sverige,SE,19811231-7557,+358,+46 (0)72 33 65 83,1981-12-31,True
+Lars,Hagström,Stationsgatan 95,Sundsvall,48012,Sverige,SE,19701005-6056,+46,0135-656 98,1970-10-05,True
+Anita,Göransson,Parkvägen 2,Landskrona,82988,Sverige,SE,19660510-0039,+46,033-436 66 81,1966-05-10,True
+Wilhelm,Carlsson,Trädgårdsgränd 733,Mölndal,11935,Sverige,SE,19431006-7442,+46,081-960 94 15,1943-10-06,True
+Helene,Karlsson,Idrottsstigen 1,Örnsköldsvik,65040,Sverige,SE,19680419-6662,+46,08-633 22 06,1968-04-19,True
+Rebecca,Miller,Matthew Inlet 2823,New Brenda,96974,Danmark,DK,19760305-6467,+45,(305)967-4110,1976-03-05,True
+Börje,Bengtsson,Nygatan 8,Borlänge,96247,Sverige,SE,19830227-2627,+46,0725-962 73,1983-02-27,True
+Julia,Lundberg,Nygatan 129,Nyköping,10141,Sverige,SE,19770226-7978,+46,091-593 88 44,1977-02-26,True
+Ricky,Bennett,Crawford Manors 705,Jordanborough,43689,Danmark,DK,19541003-0944,+45,822.385.7870,1954-10-03,True
+Olof,Johansson,Strandgatan 146,Ängelholm,33960,Sverige,SE,19731222-9364,+46,003-016 79 07,1973-12-22,True
+Kjell,Mattsson,Björkgatan 58,Linköping,67164,Sverige,SE,19400301-8477,+46,084-77 25 99,1940-03-01,True
+Inger,Berg,Solheimplassen 28,Hansen,1056,Norge,NO,19660714-1804,+47,+47 10 75 97 06,1966-07-14,True
+Sakari,Oksanen,Ostosbulevardi 27,Hankasalmi,99194,Finland,FI,19871212-0751,+358,+358 589858377,1987-12-12,True
+Isabel,Garcia,Nguyen Plains 3633,Port Lauren,97980,Danmark,DK,19630502-5278,+45,(901)473-8519x24329,1963-05-02,True
+Rita,Sørensen,Myklebusttunet 24G,Camillaeid,5847,Norge,NO,19400910-8568,+47,29 28 43 39,1940-09-10,True
+Monica,Larsson,Granstigen 712,Borlänge,58865,Sverige,SE,19790628-8569,+46,066-46 15 76,1979-06-28,True
+Sindre,Nielsen,Andresenbakken 379,Asbjørnfjord,4283,Norge,NO,19470602-7670,+47,69 60 37 16,1947-06-02,True
+Axel,Johansson,Storgatan 8,Stockholm,85991,Sveriga,SE,19591029-2567,+46,08-22 87 92,1959-10-29,True
+Morten,Rasmussen,Haugefaret 492,Lie,2294,Norge,NO,19880112-7793,+47,84601741,1988-01-12,True
+Torbjørn,Hanssen,Haugentjernet 494,Johnsen,1250,Norge,NO,19441022-1829,+47,+4764348177,1944-10-22,True
+Helena,Laine,Benktanbulevardi 3,Nousiainen,97473,Finland,FI,19621023-2393,+358,0631979323,1962-10-23,True
+Conny,Eriksson,Kyrkgatan 8,Uddevalla,88568,Sverige,SE,19890709-3679,+46,08-440 456 34,1989-07-09,True
+Markku,Turunen,Wavulininpolku 6,Orivesi,32776,Finland,FI,19620510-723Y,+358,0240281523,1962-05-10,True
+Elise,Solberg,Paulsensvingen 93,Mayfoss,6597,Norge,NO,19970131-3923,+47,46751452,1997-01-31,True
+Kathleen,Davis,Kristin Mission 288,West Kevin,24008,Danmark,DK,19620803-4970,+45,+1-326-241-9379,1962-08-03,True
+Lene,Danielsen,Nielsentjernet 64,Sivertsen,6926,Norge,NO,19851117-8952,+47,966 15 663,1985-11-17,True
+Inger,Jacobsen,Nguyensvingen 815,Holm,5685,Norge,NO,19910906-7322,+47,53 77 92 16,1991-09-06,True
+Sverre,Sivertsen,Bakkenåsen 8,Stigborg,9223,Norge,NO,19640208-9378,+47,11907684,1964-02-08,True
+Jens,Ali,Hellandgata 54,Aas,8507,Norge,NO,19760717-0429,+47,407 92 140,1976-07-17,True
+Jenny,Helland,Mikkelsenroa 1F,Lien,9832,Norge,NO,19770813-8929,+47,90812056,1977-08-13,True
+Gunnar,Thorsen,Bakkengropa 5,Johannessen,4455,Norge,NO,19420715-0901,+47,976 16 785,1942-07-15,True
+Adam,Andersson,Skolgränd 9,Jönköping,59381,Sverige,SE,19480902-4257,+46,+46 (0)8 485 186 43,1948-09-02,True
+Susanne,Eriksson,Stationsgatan 11,Ängelholm,91404,Sverige,SE,19500916-6685,+46,+46 (0)219 226 53,1950-09-16,True
+Eivind,Hansen,Abrahamsengjerdet 739,Solberg,2706,Norge,NO,19480918-6937,+47,949 91 814,1948-09-18,True
+Anna,Holmberg,Ängstorget 2,Piteå,77388,Sverige,SE,19790201-5964,+46,0666-932 93,1979-02-01,True
+Christina,Svensson,Ekgränd 21,Borås,46185,Sverige,SE,19800122-6609,+46,+46 (0)40 52 43 46,1980-01-22,True
+Mona,Myklebust,Pettersengrenda 12,Lie,1766,Norge,NO,19960114-9756,+47,459 08 411,1996-01-14,True
+Per,Petersson,Skolvägen 398,Karlstad,69446,Sverige,SE,19450219-0495,+46,029-711 39 62,1945-02-19,True
+Christian,Knudsen,Thomassenstien 963,Unniborg,0269,Norge,NO,19540205-2431,+47,84 62 48 17,1954-02-05,True
+Elisabet,Karlsson,Parkvägen 99,Ängelholm,60028,Sverige,SE,19660412-1899,+46,0760-82 42 65,1966-04-12,True
+Grethe,Johannessen,Hauglandkroken 3,Bakke,3109,Norge,NO,19740930-2300,+47,98404305,1974-09-30,True
+Valdemar,Hedlund,Skolgränd 55,Alingsås,71758,Sverige,SE,19510814-0567,+45,012-262 98 00,1951-08-14,True
+Andreas,Larsson,Skoltorget 731,Lund,10359,Sverige,SE,19850124-4954,+46,+46 (0)8 438 454 42,1985-01-24,True
+Gustaf,Axelsson,Strandvägen 047,Motala,64237,Sverige,SE,19690717-1818,+46,0371-60 37 18,1969-07-17,True
+Ingrid,Åström,Storgatan 39,Kalmar,67791,Sverige,SE,19580409-6581,+46,08-562 45 29,1958-04-09,True
+Patricia,Rivera,Burns Field 317,West Brent,61422,Danmark,DK,19840613-0326,+45,213.368.2836x77779,1984-06-13,True
+Einar,Haugen,Nygårdhaugen 9,Emilås,1668,Norge,NO,19440406-5356,+47,+47 12 41 26 24,1944-04-06,True
+Helena,Andersson,Industrivägen 0,Piteå,28297,Sverige,SE,19521230-5030,+46,0056-16 82 24,1952-12-30,True
+Michael,Vargas,Chen Turnpike 797,South Dylanstad,17485,Danmark,DK,19860723-5269,+45,001-300-735-1633,1986-07-23,True
+Ola,Solberg,Ahmedlia 4,Ingeborgnes,2891,Norge,NO,19750308-0663,+47,927 59 975,1975-03-08,True
+Synnøve,Engen,Knudsenhøgda 1F,Jensvåg,8960,Norge,NO,19740827-6680,+47,995 15 923,1974-08-27,True
+Jonathan,Fitzgerald,Robertson Throughway 18565,Elizabethfort,52565,Danmark,DK,19890120-2474,+45,376.955.1159x43401,1989-01-20,True
+Maj,Lindberg,Trädgårdsvägen 41,Motala,72767,Sverige,SE,19510429-3600,+46,0865-40 50 27,1951-04-29,True
+Evelina,Lindström,Genvägen 9,Skellefteå,85456,Sverige,SE,19670905-7035,+46,0140-15 67 50,1967-09-05,True
+Helena,Pettersson,Trädgårdsgatan 76,Lidingö,83277,Sverige,SE,19910223-3782,+46,08-495 593 25,1991-02-23,True
+Johanna,Söderberg,Storgatan 288,Västerås,24257,Sverige,SE,19721130-9274,46,015-33 67 18,1972-11-30,True
+Jon,Isaksen,Engenkollen 1,Toreeid,9922,Norge,NO,19520116-2117,+47,+47 24 46 01 81,1952-01-16,True
+Lennart,Bengtsson,Industrigränd 051,Lidingö,73040,Sverige,SE,19570105-4865,+46,+46 (0)40 55 83 92,1957-01-05,True
+Morten,Knutsen,Simonsenkollen 16H,Sandvik,9532,Norge,NO,19951006-2145,+47,46737055,1995-10-06,True
+Mary,Perry,Hogan Springs 28575,Lake Lauren,79019,Danmark,DK,19881115-6415,+45,+1-254-894-3121,1988-11-15,True
+Jessica,Munoz,Nicholas Meadows 473,East Rebecca,25063,Danmork,DK,19540823-5415,+45,715-244-6526x72973,1954-08-23,True
+Maria,Anderson,David Skyway 828,East Janet,97670,Danmark,DK,19740710-4672,+45,392-211-7771,1974-07-10,True
+Arild,Svendsen,Gulbrandsensvingen 23,Runefoss,3001,Norge,NO,19501026-7722,+47,938 23 195,1950-10-26,True
+Göran,Haglund,Gengatan 65,Kristianstad,51505,Sverige,SE,19890429-2855,46,08-287 511 69,1989-04-29,True
+Frida,Carlsson,Skogsvägen 6,Lidköping,18718,Sverige,SE,19811109-5838,+46,0233-847 67,1981-11-09,True
+Jessica,Mejia,Thornton Forges 1595,Lake Maryland,38723,Danmark,DK,19870708-4034,+45,409-553-3744x24762,1987-07-08,True
+Lena,Eliasson,Trädgårdsstigen 7,Kristianstad,37645,Sverige,SE,19891203-0462,+46,08-421 573 03,1989-12-03,False
+Sara,Fredriksen,Mikkelsentoppen 63,Jacobsen,5683,Norge,NO,19910906-2719,+47,+4710462803,1991-09-06,True
+Lisa,Dixon,Brianna Mission 33289,Roberthaven,37094,Danmark,DK,19400814-0761,+45,+1-928-756-3509,1940-08-14,True
+Ingela,Johansson,Trädgårdsgatan 9,Uddevalla,12696,Sverige,SE,19571025-7850,+46,+46 (0)46 68 52 58,1957-10-25,True
+Henrik,Nordström,Skogsgatan 214,Stockholm,88383,Sverige,SE,19470816-0991,+46,08-158 99 65,1947-08-16,True
+Gerd,Nilsen,Bakkevollen 69,Hagen,3959,Norge,NO,19620717-8674,+47,95676030,1962-07-17,True
+Ingemar,Petersson,Bäckstigen 7,Umeå,30858,Sverige,SE,19830922-3749,+46,+46 (0)251 403 57,1983-09-22,True
+Joakim,Eklund,Ängsgränd 3,Lidköping,64447,Sverige,SE,19500424-0217,+46,055-221 88 45,1950-04-24,True
+Patrik,Friberg,Parkgatan 513,Kalmar,25158,Sverige,SE,19810509-1872,+46,08-59 59 34,1981-05-09,True
+Mikael,Björk,Skogsgränd 112,Stockholm,20467,Sverige,SE,19781019-9593,+46,08-87 09 08,1978-10-19,True
+Anna,Jakobsen,Dahlåsen 7,Brekke,6602,Norge,NO,19410521-0931,+47,54390843,1941-05-21,True
+Michael,Williams,Jennifer Radial 4530,East Earl,89041,Danmark,DK,19580222-1231,+45,791.218.3822x455,1958-02-22,True
+Kristina,Karlsson,Kvarngatan 3,Skövde,97619,Sverige,SE,19920413-1171,+46,0600-740 03,1992-04-13,True
+Kerstin,Gustafsson,Genvägen 5,Linköping,53458,Sverige,SE,19460715-6395,+46,08-99 27 77,1946-07-15,True
+Anna,Nilsson,Backgränd 5,Trelleborg,24203,Sverige,SE,19680118-5710,+46,08-08 97 05,1968-01-18,True
+Ingemar,Hermansson,Storvägen 451,Örebro,41703,Sverige,SE,19420217-8955,+46,+46 (0)98 09 79 92,1942-02-17,True
+Daniel,Hayes,Davis Inlet 0080,Lake Gary,54405,Danmark,DK,19681031-4771,+45,701.576.2372,1968-10-31,True
+Lena,Ström,Trädgårdsstigen 9,Umeå,54825,Sverige,SE,19651007-6654,+46,+46 (0)54 38 31 95,1965-10-07,True
+Christer,Persson,Trädgårdsstigen 40,Nyköping,86386,Sverige,SE,19791017-0807,+46,+46 (0)823 589 25,1979-10-17,False
+Inger,Solheim,Tangengata 60,Martinsen,3224,Norge,NO,19830512-2389,+47,30 32 00 38,1983-05-12,True
+Christina,Boström,Idrottsgatan 374,Lidköping,55415,Sverige,SE,19470609-0302,+46,064-409 31 20,1947-06-09,True
+Ingrid,Jansson,Ekgränd 006,Lidköping,96118,Sverige,SE,19870627-8215,+46,08-867 67 93,1987-06-27,True
+Valdemar,Hermansson,Asptorget 10,Halmstad,48250,Sverige,SE,19460927-3589,+46,+46 (0)904 348 38,1946-09-27,True
+Kristina,Petersson,Järnvägsvägen 168,Östersund,26166,Sverige,SE,19880112-4222,46,0440-37 08 59,1988-01-12,True
+Kimberly,Rodriguez,Shari Neck 309,Castillofort,29644,Danmark,DK,19860625-3632,+45,731.597.1270,1986-06-25,True
+Henrik,Ødegård,Andersenholtet 7,Karinvåg,0180,Norge,NO,19410307-6352,+47,40527133,1941-03-07,True
+Maria,Rønning,Brekkesvingen 5,Ninastrøm,3916,Norge,NO,19720722-8896,+358,05 22 62 24,1972-07-22,True
+Carl,Bengtsson,Åkervägen 9,Kristianstad,58301,Sverige,SE,19930131-4326,+46,033-332 73 57,1993-01-31,True
+Emma,Johansson,Kyrkovägen 34,Nyköping,17455,Sverige,SE,19570821-9679,+46,08-10 90 22,1957-08-21,True
+Shane,Smith,King Fall 82246,New Joyce,79628,Danmark,DK,19440701-7389,+45,(222)759-2615x921,1944-07-01,True
+Gustav,Sjögren,Villavägen 27,Jönköping,33000,Sverige,SE,19750418-5262,+46,+46 (0)705 647 35,1975-04-18,True
+Arne,Andersson,Aspgränd 614,Stockholm,23620,Sverige,SE,19630408-8070,+46,08-40 98 25,1963-04-08,True
+Anna,Jonsson,Björkstigen 618,Östersund,49957,Sverige,SE,19481103-8880,+46,+46 (0)8 038 788 89,1948-11-03,True
+Siv,Adolfsson,Bäckgatan 505,Lund,57370,Sverige,SE,19610418-3171,+46,08-59 15 15,1961-04-18,True
+Eli,Pedersen,Isaksenhagen 93,Eriksen,7817,Norge,NO,19421210-2610,+47,944 24 865,1942-12-10,True
+William,Forsberg,Parkgatan 403,Västerås,20681,Sverige,SE,19560316-8975,+46,027-314 69 00,1956-03-16,True
+Elisabeth,Solberg,Jørgensenlia 03,Gulbrandsen,0499,Norge,NO,19660621-8637,+47,46 39 56 30,1966-06-21,True
+Henning,Ericsson,Industrigatan 98,Ängelholm,34448,Sverige,SE,19600318-1315,+46,0646-68 33 94,1960-03-18,True
+Juhani,Kinnunen,Taimistonkuja 93,Korsnäs,90238,Finland,FI,19940320-187E,+358,+358 03 0550919,1994-03-20,True
+Olof,Larsson,Industritorget 9,Lidköping,53737,Sverige,SE,19590726-1887,+46,042-29 14 33,1959-07-26,True
+Erik,Pettersson,Stationsvägen 618,Gävle,99658,Sverige,SE,20001010-7830,+46,0020-491 19,2000-10-10,True
+Toivo,Lahtinen,Fagottikatu 469,Mynämäki,14978,Finland,FI,19990619-832U,+358,+358776028295,1999-06-19,True
+Karl,Palm,Kyrkostigen 9,Karlstad,31154,Sverige,SE,19970906-9882,+46,08-985 57 13,1997-09-06,True
+Monica,Andersen,Andresengjerdet 1,Tonenes,8139,Norge,NO,19480913-1495,+47,+47 45 86 97 19,1948-09-13,True
+Karin,Persson,Kyrkotorget 7,Falun,74664,Sverige,SE,19500802-2928,+46,+46 (0)87 61 72 82,1950-08-02,True
+Jörgen,Bergqvist,Furutorget 32,Trelleborg,32146,Sverige,SE,19710920-4180,+46,+46 (0)687 525 40,1971-09-20,True
+Kelly,Odom,Becker Spurs 3721,Port Jose,25632,Danmark,DK,19470926-6454,+45,001-375-666-9545x30114,1947-09-26,True
+Anna,Gustafsson,Trädgårdsvägen 5,Södertälje,44043,Sverige,SE,19670909-1738,+46,+46 (0)8 213 332 49,1967-09-09,True
+Milla,Keränen,Dunckerinpolku 8,Eckerö,44137,Finland,FI,19620729-305D,+358,+358 18 0833614,1962-07-29,True
+Kristina,Gustafsson,Ringvägen 62,Kristianstad,13493,Sverige,SE,19571204-4569,+46,+46 (0)8 065 957 60,1957-12-04,True
+Margareta,Karlsson,Trädgårdstorget 3,Sandviken,47355,Sverige,SE,19600515-4411,+46,0767-96 83 70,1960-05-15,True
+Tom,Hauge,Pettersensvingen 98D,Aasen,5086,Norge,NO,19500708-5262,+47,44644361,1950-07-08,True
+Roger,Nilsson,Kvarngatan 1,Uddevalla,40273,Sverige,SE,19520606-1253,+46,+46 (0)56 30 28 44,1952-06-06,True
+Elisabet,Persson,Stationsvägen 67,Sandviken,51970,Sverige,SE,19420219-8976,+46,+46 (0)8 790 499 33,1942-02-19,True
+Tove,Solheim,Nygårdspranget 867,Andreasvik,8060,Norge,NO,19870613-8762,+47,85 08 44 70,1987-06-13,True
+Thomas,Lund,Kristiansenjordet 45,Hanneås,8274,Norge,NO,19700320-2690,+47,45411296,1970-03-20,True
+Erik,Hansson,Bäckgatan 58,Alingsås,12490,Sverige,SE,19830519-6535,+46,0758-71 35 16,1983-05-19,True
+Vilhelm,Andersson,Industristigen 406,Jönköping,76563,Sverige,SE,19480803-4501,+46,0622-434 03,1948-08-03,True
+Susanna,Kinnunen,Ylä-Fallin polku 73,Jomala,51964,Finland,FI,19910207-838W,+358,+358 96 3102702,1991-02-07,True
+Jens,Amundsen,Strandåsen 7,Siljenes,1270,Norge,NO,19420420-3441,+47,+47 19 43 55 81,1942-04-20,True
+Erik,Brekke,Halvorsenringen 9,Steinarborg,1069,Norge,NO,19571227-5707,+47,30 55 00 50,1957-12-27,True
+Steven,Duncan,Tammy Tunnel 053,East Hannah,14797,Danmark,DK,19961031-7261,+45,258.304.9570x9863,1996-10-31,True
+Hanne,Hanssen,Engenstykket 6,Tovesand,2128,Norge,NO,19570421-6246,+47,956 06 364,1957-04-21,False
+Åsa,Johansson,Genvägen 2,Halmstad,97775,Sverige,SE,19971201-8011,+46,08-402 14 19,1997-12-01,True
+Tonya,Hamilton,Tyler Isle 421,West Miranda,88759,Danmark,DK,19740225-3950,+45,647.853.6693x9514,1974-02-25,True
+Kjetil,Myklebust,Hauglandstubben 92,Håkonås,7452,Norge,NO,19630723-1223,+47,438 32 932,1963-07-23,True
+Yvonne,Bishop,Mitchell Loaf 69805,Lake Jerryfort,53284,Danmark,DK,19700416-7670,+45,228-398-3395x83623,1970-04-16,True
+Inger,Brekke,Vikstien 87,Jannehavn,8934,Norge,NO,19700314-6473,+47,92149186,1970-03-14,True
+Solveig,Hedlund,Kyrkostigen 553,Västerås,14895,Sverige,SE,19980722-9023,+46,044-85 59 27,1998-07-22,True
+Lennart,Andersson,Furutorget 29,Gävle,14749,Sverige,SE,19961229-5258,+46,+46 (0)8 477 733 58,1996-12-29,True
+Susan,Johnson,Jackson Skyway 393,Comptonville,55496,Danmark,DK,19460720-4489,+45,978.337.4266x8739,1946-07-20,False
+Håkon,Berg,Haugentoppen 17,Tveit,7216,Norge,NO,19411109-9317,+47,90877864,1941-11-09,True
+Ingeborg,Lien,Solheimhagen 260,Bjørgvik,4682,Norge,NO,19590802-4870,+47,43340182,1959-08-02,True
+Jonas,Möller,Idrottsgränd 11,Kristianstad,52519,Sverige,SE,19650101-7933,+46,0547-091 40,1965-01-01,True
+Jessica,Holm,Industrigränd 67,Lidingö,67211,Sverige,SE,20000409-6110,+46,08-95 23 07,2000-04-09,True
+Jens,Sivertsen,Hanssensvingen 3,Jensen,0448,Norge,NO,19880420-2661,+47,+4789680339,1988-04-20,True
+Anette,Olsen,Arnesenbråten 5,Thomassen,6651,Norge,NO,19690205-4347,+47,+47 54 88 59 61,1969-02-05,True
+Lina,Johansson,Storgatan 862,Södertälje,97502,Sverige,SE,19631208-3479,+46,0586-253 84,1963-12-08,True
+Pirkko,Hautamäki,Granfeltinpolku 39,Hailuoto,72012,Finland,FI,19600224-283H,+358,+358 949724826,1960-02-24,True
+Lennart,Jansson,Strandgränd 7,Sundsvall,39637,Sverige,SE,19841212-5070,+46,064-799 87 28,1984-12-12,True
+Jonas,Berg,Stationstorget 09,Landskrona,25632,Sverige,SE,19710317-0116,+46,0122-988 83,1971-03-17,True
+Finn,Karlsen,Tveitgrenda 07,Erikfjell,3396,Norge,NO,19970128-2441,+47,967 11 172,1997-01-28,True
+Åsa,Karlsson,Backgränd 5,Östersund,64280,Sverige,SE,19510821-0262,+46,077-46 84 03,1951-08-21,True
+Gerd,Helland,Strandlyngen 3F,Rasmussen,0046,Norge,NO,19870724-6680,+47,+4702044670,1987-07-24,True
+Linda,Snyder,Jennifer Extensions 036,Lake James,48648,Danmark,DK,19730926-0937,+45,883.414.5504x28943,1973-09-26,True
+Ingrid,Arnesen,Lundeløkka 76,Ingeborgvik,2803,Norge,NO,19521030-2624,47,+4705546896,1952-10-30,True
+Gunilla,Andersson,Ringvägen 2,Skövde,16434,Sverige,SE,19991124-2770,+46,0436-54 77 68,1999-11-24,True
+Joakim,Ellingsen,Svendsenkroken 1,Iversen,1606,Norge,NO,19690129-7419,+47,69308023,1969-01-29,True
+Joseph,Lewis,Miller Courts 885,Taylorport,67291,Danmark,DK,19490615-5202,+45,423.813.4578,1949-06-15,True
+Emma,Sundberg,Fabriksvägen 5,Linköping,89265,Sverige,SE,19550622-5841,+46,+46 (0)8 277 364 31,1955-06-22,True
+Sven,Eriksson,Kyrkgatan 285,Alingsås,97008,Sverige,SE,19620619-2468,+46,08-433 550 48,1962-06-19,True
+Eivind,Fredriksen,Rasmussenstubben 5D,Øyvindmark,6216,Norge,NO,19430601-5346,+47,+47 16 52 94 01,1943-06-01,True
+Dan,Johansson,Nygatan 941,Karlskrona,44846,Sverige,SE,19521220-2130,+46,044-59 66 44,1952-12-20,True
+Oliver,Forsman,Sahaajankatu 0,Aura,16446,Finland,FI,19530112-2881,+358,(+358) 984174265,1953-01-12,True
+Bengt,Johansson,Parkstigen 378,Piteå,44818,Sverige,SE,19580215-7433,+46,020-635 35 76,1958-02-15,True
+Magnus,Andreasson,Björktorget 001,Trollhättan,56551,Sverige,SE,19610214-1678,+46,074-120 02 68,1961-02-14,True
+Ulf,Nilsson,Granvägen 5,Uppsala,40522,Sverige,SE,19630511-2969,+46,037-70 76 92,1963-05-11,True
+Catarina,Nilsson,Industritorget 853,Jönköping,92849,Sverige,SE,19610213-3655,+46,013-947 49 19,1961-02-13,True
+Jonas,Kristoffersen,Eidevika 1,Sverregrunn,7459,Norge,NO,19901201-7419,+47,96054928,1990-12-01,True
+Einar,Jensen,Ødegårdberget 670,Andresen,3353,Norge,NO,19920825-8995,+47,45218058,1992-08-25,True
+Ulla,Nurmi,Franzéninkuja 49,Pello,24532,Finland,FI,19930208-795T,+358,075 826 7682,1993-02-08,True
+Kelly,Gilbert,Rivera Path 98923,South Janet,03310,Danmark,DK,19500917-8063,+45,745.465.6750x42870,1950-09-17,True
+Matilda,Gustafsson,Trädgårdsgatan 4,Trelleborg,54524,Sverige,SE,19830408-4961,+46,08-811 838 15,1983-04-08,True
+Åke,Söderlund,Backgatan 5,Helsingborg,71318,Sverige,SE,19620102-7756,+46,08-457 05 79,1962-01-02,True
+Jessica,Smith,Jordan Meadow 9533,South Annton,35305,Danmark,DK,19961006-0087,+45,8028700194,1996-10-06,True
+Johannes,Matilainen,Yrjö-Koskisen katu 5,Hämeenkyrö,79949,Finland,FI,19420917-0708,+358,+358071085539,1942-09-17,True
+Daniel,Anderson,Randall Crest 89449,Debbiemouth,16917,Danmark,DK,19660912-6682,+45,(351)321-6237,1966-09-12,True
+Björn,Engström,Åkerstigen 54,Kristianstad,22691,Sverige,SE,19590402-2686,+46,+46 (0)086 468 11,1959-04-02,True
+Robert,Sanders,Sarah Extensions 546,New Kennethport,68743,Danmark,DK,19530225-7463,+45,303-281-7329,1953-02-25,True
+Hannele,Palomäki,Louhikkotie 332,Loppi,06431,Finland,FI,19400428-1219,+358,+358 79 0373193,1940-04-28,True
+Gustav,Ståhl,Björkgränd 309,Västerås,55690,Sverige,SE,19920331-1342,+46,021-110 28 05,1992-03-31,True
+Ola,Pettersen,Nygårdvollen 209,Ahmed,0267,Nyrge,NO,19400812-7853,+47,03238535,1940-08-12,True
+Ingrid,Jonsson,Ekgatan 7,Motala,40923,Sverige,SE,19711228-7428,+46,0582-24 63 70,1971-12-28,True
+Sverre,Jørgensen,Strandløkka 27,Evahamn,5758,Norge,NO,19410531-3007,+47,42019462,1941-05-31,True
+Johan,Sundqvist,Järnvägsgatan 6,Landskrona,12337,Sverige,SE,19630829-1708,+46,08-733 477 27,1963-08-29,True
+Markus,Knudsen,Strandskogen 7,Kimeid,3345,Norge,NO,19511117-9584,+47,994 56 174,1951-11-17,True
+Arild,Pedersen,Sætherhagen 6,Edvardsen,0810,Norge,NO,19931024-8436,+47,96441235,1993-10-24,True
+Sofie,Larsson,Industrigränd 19,Växjö,93022,Sverige,SE,19651226-7769,+46,005-902 46 91,1965-12-26,True
+Tore,Svendsen,Jacobsenengen 73,Jørgensen,4583,Norge,NO,19820923-6243,+47,94570719,1982-09-23,True
+Janne,Hauge,Nielsenholtet 28B,Ingrideid,9892,Norge,NO,19540114-8446,+47,923 56 447,1954-01-14,True
+Darlene,Gallegos,Smith Fords 8122,Port Justin,78047,Danmark,DK,19400711-3953,+45,(918)898-4408x67673,1940-07-11,True
+Emelie,Gunnarsson,Industrigränd 906,Ängelholm,97642,Sverige,SE,19701018-4973,+46,08-570 645 25,1970-10-18,True
+Christian,Linder,Åkerstigen 99,Lund,60629,Sverige,SE,19630413-5201,46,0131-75 76 70,1963-04-13,True
+Philip,Karlsson,Ekgatan 2,Kalmar,20057,Sverige,SE,19941113-6265,+46,+46 (0)901 593 55,1994-11-13,True
+Axel,Bengtsson,Parkvägen 42,Trollhättan,78315,Sverige,SE,19570425-4629,+46,08-461 176 06,1957-04-25,True
+Mats,Nilsson,Storstigen 379,Skövde,21487,Sverige,SE,19900201-4424,+46,08-16 40 07,1990-02-01,True
+Linnéa,Nilsson,Skolvägen 81,Lund,53199,Sverige,SE,19460429-8165,+46,+46 (0)291 558 19,1946-04-29,True
+Olof,Lundmark,Aspstigen 58,Borlänge,55651,Sverige,SE,19640611-8851,+46,092-995 64 61,1964-06-11,True
+Ann,Wright,Banks Corner 8211,Lake David,50142,Danmark,DK,19680223-0624,+45,860-621-9682x969,1968-02-23,True
+Torsten,Nilsson,Stationsgatan 277,Mölndal,50777,Sverige,SE,19800712-6327,+46,+46 (0)576 450 26,1980-07-12,True
+Seppo,Kolehmainen,Vesalankatu 84,Akaa,75033,Finland,FI,19671227-318S,+358,(+358) 411943414,1967-12-27,True
+Folke,Nilsson,Idrottsgränd 16,Linköping,31736,Sverige,SE,19750106-8246,+46,033-64 55 42,1975-01-06,True
+Lars,Gunnarsson,Gentorget 3,Norrköping,90824,Sverige,SE,19670526-7569,+46,0516-87 85 80,1967-05-26,True
+Kåre,Jacobsen,Jenssentjernet 74D,Hauge,9633,Norge,NO,19470724-3642,+47,+4706636311,1947-07-24,True
+Evert,Samuelsson,Kvarngränd 98,Lidingö,21246,Sverige,SE,19860810-2475,+46,+46 (0)8 590 458 19,1986-08-10,True
+Birgit,Persson,Åkergränd 62,Göteborg,94776,Sverige,SE,19990524-0264,+46,0764-606 40,1999-05-24,True
+Joakim,Eriksson,Gengatan 4,Karlstad,66805,Sverige,SE,19840628-4631,+46,087-63 83 69,1984-06-28,True
+Torbjørn,Berge,Amundsenskogen 770,Linnvær,5082,Norge,NO,19650116-7575,+47,+47 41 53 96 53,1965-01-16,True
+Johan,Gustavsson,Stationsgatan 93,Västerås,73885,Sverige,SE,19641019-3699,+46,090-78 98 91,1964-10-19,True
+Benjamin,Allen,Brandi Course 31041,New Anthony,40702,Danmark,DK,19760520-2152,+45,818.814.4465x606,1976-05-20,True
+Linnéa,Jansson,Järnvägstorget 34,Borås,80210,Sverige,SE,19660519-5650,+46,+46 (0)339 663 57,1966-05-19,True
+Linus,Lundberg,Idrottsvägen 535,Skövde,85164,Sverige,SE,19500222-0388,+46,0215-97 62 23,1950-02-22,True
+Simon,Forslund,Ringgatan 86,Karlskrona,40834,Sverige,SE,19410326-7191,+46,+46 (0)68 58 98 04,1941-03-26,True
+Linnéa,Nyström,Backgatan 7,Linköping,49617,Sverige,SE,19880921-2559,+46,077-67 49 78,1988-09-21,True
+Henry,Karlsson,Björkgatan 097,Sundsvall,26951,Sverige,SE,19430705-5040,+46,094-020 13 04,1943-07-05,True
+Josefine,Olofsson,Kyrkgatan 394,Ängelholm,64611,Sverige,SE,19500603-3719,+46,0021-34 28 25,1950-06-03,True
+Marianne,Ottosson,Kvarngatan 729,Norrköping,96627,Sverige,SE,19621012-6515,+46,+46 (0)44 41 82 55,1962-10-12,True
+Lars,Davidsson,Trädgårdsvägen 2,Malmö,14708,Sverige,SE,19510221-9904,+46,08-661 527 22,1951-02-21,True
+Heidi,Thomassen,Brekkeflata 4,Vegardsjøen,8635,Norge,NO,19980910-0738,+47,04 50 54 70,1998-09-10,True
+Erik,Lunde,Knutsenhagen 02A,Eivindby,7896,Danmark,NO,19420526-8167,+47,99921704,1942-05-26,True
+Christian,Haug,Svendsenskogen 3A,Elisabethfoss,8549,Norge,NO,19651229-1747,+47,91 54 40 68,1965-12-29,True
+Thomas,Johansson,Villatorget 653,Jönköping,18282,Sverige,SE,19970624-4695,+46,08-493 329 76,1997-06-24,True
+Wayne,Powell,Brittany Shoals 19437,South Alexandraborough,78396,Danmark,DK,19480801-7323,+45,001-642-763-6308x660,1948-08-01,True
+Amber,Haley,Thomas Lodge 96181,Danielleton,97581,Danmark,DK,19490524-9803,+45,(302)647-1399x6652,1949-05-24,True
+Gunnar,Olsson,Ängsgatan 081,Sundsvall,26649,Sverige,SE,19981013-1112,+46,0698-51 46 60,1998-10-13,True
+Kirsten,Johannessen,Jensenringen 2,Madsen,5835,Norge,NO,19850520-9971,+47,+47 82 47 77 91,1985-05-20,True
+Anneli,Karttunen,Veräjämäenkatu 522,Kaavi,25930,Finland,FI,19680901-2682,+358,+358353703479,1968-09-01,True
+Inger,Carlsson,Skogsgatan 7,Ängelholm,95279,Sverige,SE,19540105-9609,+46,0040-565 96,1954-01-05,True
+Jennifer,Clark,Pamela Plaza 559,Lake Audrey,35516,Danmark,DK,19820209-1828,+45,397.948.9072,1982-02-09,True
+Henrik,Lien,Thomassengata 5,Gundersen,1952,Norge,NO,19470812-6508,+47,+47 66 28 69 64,1947-08-12,True
+Mitchell,Duncan,Tyler Burg 2785,Hernandezburgh,26115,Danmark,DK,19420821-6573,+45,(774)793-2384x49603,1942-08-21,True
+Samantha,Smith,Benjamin Knolls 0282,North Cameron,35193,Danmark,DK,19820905-6880,+45,+1-790-932-7974,1982-09-05,True
+Alexa,Ball,Cooke Forge 381,Huffmanfurt,98578,Danmark,DK,19460928-3290,+45,+1-936-226-0298,1946-09-28,True
+Brent,Brown,Pierce Divide 1543,Camachoview,63727,Danmark,DK,19821005-2287,+45,(931)928-3267x56431,1982-10-05,True
+Linnéa,Johansson,Skogsgatan 0,Linköping,72756,Sverige,SE,19640926-1694,+46,+46 (0)068 714 94,1964-09-26,True
+Priscilla,Wilson,Ashley Forges 486,Port Sean,69747,Danmark,DK,19560319-4491,+45,375-330-7570x7559,1956-03-19,True
+Björn,Johansson,Storgatan 0,Växjö,28533,Sverige,SE,19770204-8442,+46,+46 (0)522 563 63,1977-02-04,True
+Roy,Berge,Mathisenlia 2,Nygård,7907,Norge,NO,19490526-8139,+47,03218990,1949-05-26,True
+Marte,Ellingsen,Sivertsenroa 40,Aasen,0429,Norge,NO,19950705-4934,+47,00 87 50 75,1995-07-05,True
+Randi,Lunde,Ødegårdtjernet 852,Kristensen,1266,Norge,NO,19661203-9615,+47,405 81 139,1966-12-03,True
+Heather,Deleon,James Ranch 7291,New Andrewmouth,79140,Danmark,DK,19801120-4067,+45,805-720-9670x92806,1980-11-20,True
+Janne,Birkeland,Larsenmarka 94,Tveit,9793,Norge,NO,19651220-9303,+47,+47 44 87 98 66,1965-12-20,True
+Per,Nielsen,Myklebustengen 9,Berg,9431,Norge,NO,19880521-7252,+47,29 73 40 69,1988-05-21,True
+Sebastian,Brekke,Bergtunet 2,Vegardøy,2778,Norge,NO,19461215-2083,+47,31094115,1946-12-15,True
+Margaretha,Nilsson,Trädgårdstorget 737,Södertälje,80639,Sverige,SE,19871224-7366,+46,+46 (0)493 063 42,1987-12-24,True
+Lars,Håkansson,Storgatan 66,Västerås,31946,Sverige,SE,19651117-7384,+46,0228-75 42 08,1965-11-17,True
+Märta,Magnusson,Stationsvägen 05,Sundsvall,50030,Sverige,SE,19640628-4545,+46,011-36 63 92,1964-06-28,True
+Maria,Persson,Villavägen 8,Västerås,91164,Sverige,SE,19461111-9221,+46,08-824 00 36,1946-11-11,True
+Joseph,Short,Elizabeth Keys 9703,Jaredstad,47657,Danmark,DK,19871012-2427,+45,279.242.8327,1987-10-12,True
+Reidun,Ali,Hagenlunden 4,Larsås,6823,Norge,NO,19770105-6817,+47,56 16 65 44,1977-01-05,True
+Victoria,Holmgren,Fabriksstigen 208,Luleå,37890,Sverige,SE,19620312-3014,+46,073-443 14 01,1962-03-12,True
+Mikael,Rautio,Lemunpolku 156,Oripää,10291,Finland,FI,19491215-321L,+358,0450552527,1949-12-15,True
+Emilie,Solberg,Hagenstien 83,Heidibø,3841,Norge,NO,19721108-6843,+47,25 36 47 15,1972-11-08,True
+Sara,Arnesen,Lieroa 5,Gunnarstrand,3939,Norge,NO,19960710-8870,+47,08 98 09 15,1996-07-10,True
+Tommy,Lindberg,Granstigen 677,Varberg,83707,Sverige,SE,19591223-8371,+46,08-955 53 89,1959-12-23,True
+Ole,Vik,Myklebusttunet 7A,Haug,1590,Norge,NO,19621227-9074,+47,964 98 828,1962-12-27,True
+Jennifer,Williams,David Row 44770,Port Mary,87235,Danmark,DK,19420110-8427,+45,001-301-912-7110x46362,1942-01-10,True
+Britt,Amundsen,Jensenstien 48,Jensen,3363,Norge,NO,19881228-8593,+47,407 16 218,1988-12-28,True
+Kjell,Jenssen,Edvardsenekra 2,Kimeid,1449,Norge,NO,19970617-1981,+47,+4720927390,1997-06-17,True
+Inge,Blomberg,Skolvägen 9,Landskrona,32012,Sverige,SE,19551015-8696,+46,08-06 91 19,1955-10-15,True
+Monica,Andersson,Parkvägen 8,Stockholm,66617,Sverige,SE,19990701-1686,+46,0797-52 47 82,1999-07-01,True
+Fredrik,Strandberg,Industrivägen 633,Alingsås,82348,Sverige,SE,19650624-3385,+46,054-924 09 03,1965-06-24,True
+Robin,Nilsson,Stationstorget 20,Örnsköldsvik,76108,Sverigep,SE,19430127-0395,+46,08-494 71 22,1943-01-27,True
+Lise,Andersen,Jakobsenlunden 6,Kårestrøm,8470,Norge,NO,19710522-6110,+47,45163719,1971-05-22,True
+Kristian,Strömberg,Industrigränd 1,Trollhättan,31806,Sverige,SE,19830314-3979,+46,0731-447 16,1983-03-14,True
+Tove,Engen,Hansenjordet 27,Tonevær,8295,Norge,NO,19820524-6240,+47,92632152,1982-05-24,True
+Eva,Nilsson,Aspgränd 169,Sundsvall,20640,Sverige,SE,19531018-5271,+46,08-44 16 64,1953-10-18,True
+Hannah,Parker,Waller Fort 327,Williamsside,40506,Danmark,DK,19990220-1133,+45,001-893-885-6755,1999-02-20,True
+Lovisa,Larsson,Björkvägen 1,Karlskoga,93340,Sverige,SE,19541024-6989,+46,+46 (0)815 930 88,1954-10-24,True
+Geir,Martinsen,Hagengjerdet 6,Næss,2117,Norge,NO,19601210-9592,47,+4773946527,1960-12-10,True
+Margareta,Johansson,Kyrkostigen 5,Karlstad,33359,Sverige,SE,19430113-0823,+46,0599-40 09 94,1943-01-13,True
+Hanna,Sørensen,Ellingsenskrenten 8,Monicaberg,2162,Norge,NO,19951020-1154,+47,58986187,1995-10-20,True
+Thomas,Lie,Martinsentoppen 1A,Jakobsen,8883,Norge,NO,19751207-7412,+47,95 34 72 40,1975-12-07,True
+Vanessa,Potts,Alexander Estate 99039,Lake Jessica,09846,Danmark,DK,19771009-7881,+45,433.423.6633x615,1977-10-09,True
+Elisabet,Andersson,Furustigen 4,Växjö,97530,Sverige,SE,19740410-6722,+46,0300-989 71,1974-04-10,True
+Elise,Eriksson,Strandvägen 41,Östersund,94352,Sverige,SE,19701214-0107,+46,+46 (0)186 421 53,1970-12-14,True
+Karin,Nilsson,Kvarngatan 4,Nyköping,35058,Sverige,SE,19531206-1231,+46,0431-206 73,1953-12-06,True
+Elisabeth,Andersson,Björkvägen 1,Mölndal,97734,Sverige,SE,19680606-6737,+46,0688-231 38,1968-06-06,True
+Laura,Ikonen,Puuskakatu 0,Pirkkala,89971,Finland,FI,19581106-2301,+358,+358 402208724,1958-11-06,True
+Viktoria,Hansson,Gengatan 23,Östersund,88091,Sverige,SE,19520426-8987,+46,0269-90 80 71,1952-04-26,True
+Frida,Lundin,Parkstigen 35,Jönköping,68348,Sverige,SE,19580305-0347,+46,+46 (0)439 691 34,1958-03-05,True
+Birgitta,Johansson,Idrottsgränd 48,Nyköping,83772,Sverige,SE,19530702-8302,+46,016-07 70 20,1953-07-02,True
+Nina,Hanssen,Tangenstranda 02,Nielsen,7429,Norge,NO,19790408-2839,+47,+4786551712,1979-04-08,True
+Jenny,Larsson,Strandgatan 2,Norrköping,95162,Sverige,SE,19660315-1462,+46,0304-37 13 37,1966-03-15,True
+Maria,Karlsson,Idrottsvägen 4,Umeå,58686,Norge,SE,19810208-7816,+46,0444-42 00 05,1981-02-08,True
+Emanuel,Stenberg,Parkgatan 06,Karlskrona,32303,Sverige,SE,19440313-6085,+46,+46 (0)240 715 16,1944-03-13,True
+Lena,Lundkvist,Bäckvägen 045,Sandviken,14373,Sverige,SE,19681220-3210,+46,+46 (0)328 444 07,1968-12-20,True
+Joakim,Ødegård,Rønningspranget 5F,Eide,8392,Norge,NO,19440826-2355,+47,73399248,1944-08-26,True
+Sofie,Ruud,Amundsenalléen 975,Annagrunn,2831,Norge,NO,19570117-2745,+47,26 64 23 73,1957-01-17,True
+Jonas,Andersson,Ringstigen 034,Sundsvall,31775,Sverige,SE,19410707-4462,+46,+46 (0)38 11 17 30,1941-07-07,True
+Kristina,Andersson,Nygränd 08,Motala,91630,Sverige,SE,19461016-5354,+46,099-41 20 57,1946-10-16,True
+James,Pena,Haynes Square 4978,Allenshire,62073,Danmark,DK,19521117-5312,+45,+1-457-435-0711,1952-11-17,True
+Ingegerd,Johansson,Industrigatan 25,Karlskrona,14539,Sverige,SE,19611213-9298,+46,08-974 213 60,1961-12-13,True
+Kimberly,Holland,Bridget Circle 92924,East Brian,73149,Danmark,DK,19630916-4050,+45,373-314-6298x541,1963-09-16,True
+Robin,Johansson,Genvägen 9,Örebro,36228,Sverige,SE,19870912-5163,+46,0769-18 50 54,1987-09-12,True
+Anneli,Salo,Pyörökiventie 710,Laukaa,49977,Finland,FI,19580312-2740,+358,0469073870,1958-03-12,True
+Ida,Mikkelsen,Berntsenringen 90B,Annhavn,5201,Norge,NO,19460307-6440,+47,92315087,1946-03-07,True
+Linus,Lundberg,Åkergatan 6,Borlänge,42781,Sverige,SE,19790905-6335,+46,+46 (0)535 762 81,1979-09-05,True
+Laila,Lindholm,Skolgatan 938,Örnsköldsvik,93864,Sverige,SE,19490731-2732,+46,08-677 308 49,1949-07-31,True
+Monica,Lundberg,Nyvägen 13,Kalmar,87868,Sverige,SE,19891123-1401,+46,08-842 917 11,1989-11-23,True
+Hanna,Kristoffersen,Sørensenekra 1,Cathrinesand,1218,Norge,NO,19401220-1196,+47,39 36 49 06,1940-12-20,True
+Øyvind,Rønning,Sandvikhøgda 93G,Erlingvik,1838,Norge,NO,19681123-5839,+47,+47 66 08 11 13,1968-11-23,True
+Robert,Ellingsen,Kristoffersenflata 20,Hagen,2969,Norge,NO,19710330-8874,+47,91895386,1971-03-30,True
+Ulla,Laakso,Veräjämäenbulevardi 78,Viitasaari,06990,Finland,FI,19760803-511U,+358,+358 475904162,1976-08-03,True
+Anna,Gustavsson,Genstigen 036,Nyköping,23103,Sverige,SE,19500901-6646,+46,08-275 933 71,1950-09-01,True
+Patricia,Arias,Morgan Coves 302,Lake Deborah,85094,Danmark,DK,19800302-3737,+45,(922)856-6427,1980-03-02,True
+Ingrid,Johnsson,Ringvägen 034,Ängelholm,84382,Sverige,SE,19530121-5876,+46,+46 (0)413 265 46,1953-01-21,True
+Virpi,Koskinen,Ilveskatu 75,Vimpeli,95570,Finland,FI,19410605-223R,+358,(+358) 724448109,1941-06-05,True
+Pål,Aune,Myklebusthaugen 8,Grovær,4079,Norge,NO,19430925-7247,+47,99 86 91 87,1943-09-25,False
+Britt-Marie,Karlsson,Strandvägen 505,Lund,58681,Sverige,SE,19770730-6761,+46,08-39 39 17,1977-07-30,True
+Siri,Johansen,Martinsenroa 1,Johannessen,4109,Norge,NO,19661015-4355,+47,77 39 24 47,1966-10-15,True
+Øyvind,Madsen,Nygårdhøgda 1,Jørgensen,6777,Norge,NO,19690814-8305,+47,68 11 11 14,1969-08-14,False
+John,Rowe,Joseph Knolls 6631,Lisamouth,40935,Danmark,DK,19650424-7170,+45,+1-412-900-2083x128,1965-04-24,True
+Trine,Gundersen,Madseneggen 6,Sigurdhavn,8726,Norge,NO,19540820-8076,+47,432 61 705,1954-08-20,True
+Åke,Karlsson,Industristigen 890,Kalmar,76994,Sverige,SE,19640102-9471,+46,08-253 950 09,1964-01-02,True
+Robert,Eriksson,Storgatan 75,Växjö,13683,Sverige,SE,20001204-6490,+46,+46 (0)8 278 440 99,2000-12-04,True
+Julie,Nilsen,Haugebråten 3A,Kimby,7640,Norge,NO,19821018-2194,+47,+47 18 52 88 25,1982-10-18,True
+Tellervo,Korhonen,Taimistonbulevardi 29,Siikajoki,85627,Finland,FI,19450116-797H,358,0981480076,1945-01-16,True
+Linda,Jones,Jeremy Extensions 8972,Mayomouth,89485,Danmark,DK,19990309-3781,+45,307-471-7982x63703,1999-03-09,True
+Trine,Abrahamsen,Mikkelsenkollen 09,Gundersen,1818,Norge,NO,19880711-4856,+47,+47 29 67 86 53,1988-07-11,True
+Marcus,Olofsson,Nyvägen 896,Borlänge,53595,Sverige,SE,19811224-3016,+46,08-78 19 49,1981-12-24,True
+Ruth,Pettersson,Strandvägen 200,Helsingborg,35343,Sverige,SE,19980102-7505,+46,08-967 054 12,1998-01-02,True
+Lena,Haglund,Stationsvägen 437,Nyköping,34471,Sverige,SE,19540123-6381,+46,08-53 98 19,1954-01-23,True
+Aulis,Koivula,Birger Kaipiaisen bulevardi 040,Savonlinna,69911,Finland,FI,19700204-081C,+358,+358 227560132,1970-02-04,True
+Rodney,Hernandez,Carr Station 25484,Carolineberg,06849,Danmark,DK,19981108-5433,+45,001-383-447-3437x9170,1998-11-08,True
+Aud,Lund,Mathisentoppen 3,Bjørnfjord,9254,Norge,NO,19630131-2747,+47,92 92 94 35,1963-01-31,True
+Albin,Eriksson,Skolgatan 12,Växjö,24089,Sverige,SE,19671015-8448,+46,0610-102 90,1967-10-15,True
+Kurt,Olsson,Kyrkogränd 885,Varberg,73093,Sverige,SE,19821010-1650,+46,+46 (0)12 71 30 95,1982-10-10,True
+Matilda,Lindström,Villavägen 917,Lidingö,83163,Sverige,SE,20000514-8163,+46,+46 (0)694 274 93,2000-05-14,True
+Ester,Henriksson,Villavägen 662,Mölndal,54115,Sverige,SE,19690403-0912,+46,+46 (0)8 750 996 07,1969-04-03,True
+Eivind,Bakke,Jørgensenroa 6,Nygård,2168,Norge,NO,19950929-9639,+47,+47 10 83 23 22,1995-09-29,True
+Kathryn,Soto,Kline Stravenue 6342,Petersonborough,37966,Danmark,DK,19410111-2530,+45,001-502-352-4315x195,1941-01-11,True
+Christopher,Robinson,Martin Knoll 38704,Diazberg,81791,Danmark,DK,19480713-6474,+45,+1-906-513-7027x3215,1948-07-13,True
+Dalton,Burns,Jonathan Centers 5589,Greenfurt,59924,Danmark,DK,19540926-4777,+45,7832979492,1954-09-26,True
+Airi,Hämäläinen,Saanatunturinkatu 45,Sund,62401,Finland,FI,19890329-826U,+358,+358 09 6661318,1989-03-29,True
+Destiny,Holmes,Sandra Locks 37063,West Jaredberg,46458,Danmark,DK,19980222-3478,+45,7256654305,1998-02-22,True
+Anna,Norberg,Nygatan 8,Alingsås,45012,Sverige,SE,19671113-0705,+46,+46 (0)110 615 27,1967-11-13,True
+Nils,Jonasson,Villagränd 8,Örebro,86193,Sverige,SE,19990224-8441,+46,08-72 21 16,1999-02-24,True
+Pål,Sivertsen,Jakobsenlia 2,Fredriksen,2155,Norge,NO,19771020-9386,+47,98 15 12 20,1977-10-20,True
+Berit,Eliassen,Ellingsengjerdet 7,Thornes,9212,Norge,NO,19740602-9180,+47,44887461,1974-06-02,True
+Patrik,Andreasson,Järnvägsgatan 516,Uppsala,80673,Sverige,SE,19870322-2077,+46,08-73 80 94,1987-03-22,True
+Carl,Pettersson,Genvägen 269,Lidingö,78454,Sverige,SE,19680827-0267,+46,0854-362 58,1968-08-27,True
+Sarah,Odonnell,James Villages 142,Port Denisefurt,79224,Danmark,DK,19970623-9718,+45,001-539-567-6955x219,1997-06-23,True
+Maria,Smith,Rich Gardens 40960,Jennaborough,76869,Danmark,DK,19950116-1533,+45,+1-998-392-2045x56394,1995-01-16,True
+Ingela,Persson,Järnvägsgränd 927,Örebro,39850,Sverige,SE,19430419-4708,+46,0315-74 51 78,1943-04-19,True
+Christina,Henriksson,Ängsvägen 465,Umeå,47921,Sverige,SE,19990331-6573,+46,0872-45 20 06,1999-03-31,True
+Chase,Kelly,Wright Mission 8230,North Elizabeth,27253,Danmark,DK,19681224-5618,+45,(653)707-2046x92274,1968-12-24,True
+Lina,Lindgren,Parkgatan 0,Lidköping,60927,Sverige,SE,19830908-5143,+46,08-407 398 83,1983-09-08,True
+Peter,Eriksson,Grangränd 809,Örnsköldsvik,30839,Sverige,SE,19860105-2243,+46,+46 (0)41 56 57 40,1986-01-05,True
+Joseph,Rios,Patrick Corner 82541,Port Sarahtown,79530,Danmark,DK,19740927-9275,+45,723-957-2136x044,1974-09-27,True
+Else,Knutsen,Thomassenspranget 90C,Livodden,0631,Norge,NO,19751212-8805,+47,36 19 61 23,1975-12-12,True
+Carl,Hellström,Åkergatan 5,Göteborg,82527,Sverige,SE,19520107-4288,+46,08-020 193 34,1952-01-07,True
+Gun,Larsson,Idrottsstigen 872,Karlstad,60075,Sverige,SE,19760818-0694,+46,0453-06 54 60,1976-08-18,True
+Laila,Amundsen,Madsenmyra 40E,Maritås,3861,Norge,NO,20001206-8509,+47,78 30 24 72,2000-12-06,True
+John,May,Nathaniel Village 0615,Davidhaven,07457,Danmark,DK,19601209-3820,+45,(691)763-5899x7462,1960-12-09,True
+Johanna,Berggren,Ängsgatan 277,Karlskrona,71700,Sverige,SE,19910731-2266,+46,08-740 24 92,1991-07-31,True
+Gösta,Johansson,Björktorget 264,Sundsvall,25788,Sverige,SE,20000529-7458,46,0812-661 49,2000-05-29,True
+Antero,Juntunen,Rukkilankuja 590,Sodankylä,12823,Finland,FI,19730725-1245,+358,+358859491904,1973-07-25,True
+Melanie,Thomas,Shannon Prairie 14522,Stephanieville,35372,Danmark,DK,19540905-6290,+45,9095931746,1954-09-05,True
+Roger,Franzén,Grangränd 23,Gävle,66087,Sverige,SE,19730201-2259,+46,+46 (0)078 276 50,1973-02-01,True
+Tony,Johansson,Genstigen 23,Lund,42821,Sverige,SE,19860411-1931,+46,+46 (0)8 783 725 79,1986-04-11,True
+Jamie,Williams,Franklin Walks 0383,Craigmouth,07701,Danmark,DK,19950211-5785,+45,+1-308-902-1706x32460,1995-02-11,True
+Stina,Lundgren,Parkstigen 2,Lund,70546,Sverige,SE,19930712-5775,+46,+46 (0)58 33 43 63,1993-07-12,True
+Esa,Honkanen,Maasälväntie 01,Ikaalinen,90985,Finland,FI,19780328-8046,+358,+358 438283730,1978-03-28,True
+Arvid,Lundgren,Storvägen 357,Umeå,85784,Sverige,SE,19830802-3669,+46,052-199 70 21,1983-08-02,True
+Kim,Mckinney,John Circles 5827,Lake Cynthiamouth,63334,Danmark,DK,19561027-5627,+45,510-658-0606x29354,1956-10-27,True
+Erik,Svensson,Storvägen 220,Växjö,15532,Sverige,SE,19430527-5203,+46,0027-04 63 89,1943-05-27,True
+April,Ramirez,Jones Mountains 02289,Williamside,45966,Danmark,DK,19640511-2270,+45,+1-754-382-9395,1964-05-11,True
+Per,Nilsen,Sivertsenstubben 7,Hagen,3897,Norge,NO,19680604-7345,+47,13287603,1968-06-04,True
+Kirsten,Solberg,Brekkebråten 26,Eide,8052,Norge,NO,19720302-7824,+47,47146695,1972-03-02,True
+Louise,Pettersson,Ringtorget 781,Uppsala,53481,Sverige,SE,19700408-6502,+46,0603-387 21,1970-04-08,True
+Arne,Jonsson,Industritorget 60,Skellefteå,50644,Sverige,SE,19490502-7034,+46,08-718 13 19,1949-05-02,True
+Roger,Richards,Becky Manors 5709,North Adamland,78096,Danmark,DK,19990716-6549,+45,861-794-5337,1999-07-16,True
+Harald,Strand,Henriksenflata 99C,Kjerstisund,3890,Norge,NO,19591210-9859,+47,420 05 373,1959-12-10,True
+Synnøve,Antonsen,Gundersenstranda 4G,Paulsen,6112,Norge,NO,19540101-0265,+47,15365245,1954-01-01,True
+Ingeborg,Persson,Björkgränd 700,Stockholm,76311,Sverige,SE,19920926-1088,+46,0306-354 37,1992-09-26,True
+Karl,Bäckström,Björkstigen 38,Trollhättan,40149,Sverige,SE,19760707-1189,+46,08-20 68 56,1976-07-07,True
+Espen,Ali,Alistykket 79,Haugen,0431,Norge,NO,19471231-3524,+47,+4711631880,1947-12-31,True
+Trond,Nilsen,Mathisenvika 5,Ahmed,7723,Norge,NO,19811212-8501,+47,95131045,1981-12-12,True
+Maria,Andersson,Ringvägen 544,Norrköping,79664,Finland,SE,19860129-8377,+46,08-325 159 34,1986-01-29,True
+Elizabeth,Combs,Brown Island 23453,Karenbury,23056,Danmark,DK,19881221-3710,+45,481.406.4020x6778,1988-12-21,True
+Leena,Toivonen,Laakavuorentie 2,Pietarsaari,59092,Finland,FI,19671019-1837,+358,+358026316217,1967-10-19,True
+Vilhelm,Johansson,Parktorget 6,Östersund,26946,Sverige,SE,19881120-1148,+46,08-41 72 93,1988-11-20,True
+Gunnar,Månsson,Fabriksgränd 840,Falun,41257,Sverige,SE,19910922-6905,+46,08-39 44 76,1991-09-22,True
+Karoline,Sæther,Hanssenstykket 2,Roarfoss,3334,Norge,NO,19650217-1779,+47,+47 78 10 62 09,1965-02-17,True
+Nathan,Williams,Mark Isle 25618,Rodriguezfurt,73238,Danmark,DK,19620722-7977,+45,+1-343-610-2833x9947,1962-07-22,True
+Sissel,Sørensen,Lundhagen 29C,Sandvik,9575,Norge,NO,19761029-4521,+47,21 22 56 94,1976-10-29,True
+Viola,Lundmark,Ängsgränd 011,Kristianstad,68950,Sverige,SE,19551208-3596,+46,08-124 649 49,1955-12-08,True
+Anna,Göransson,Idrottsvägen 5,Uppsala,47044,Sverige,SE,19451030-1580,+46,+46 (0)16 74 59 43,1945-10-30,True
+Tauno,Laiho,Maasälväntie 221,Kristiinankaupunki,62103,Finland,FI,19520115-1688,+358,+358 23 0853007,1952-01-15,True
+Per,Bengtsson,Skolgränd 46,Karlstad,70552,Sverige,SE,19571226-0099,+46,0342-59 91 36,1957-12-26,True
+Elisabeth,Pettersson,Skolstigen 28,Helsingborg,37302,Sverige,SE,19751102-3032,+46,+46 (0)732 272 13,1975-11-02,True
+Anita,Josefsson,Aspgatan 6,Halmstad,21971,Sverige,SE,19510312-9859,+46,+46 (0)8 582 993 68,1951-03-12,True
+Eva,Lundberg,Skolvägen 99,Eskilstuna,19353,Sverige,SE,19660729-2529,+46,0773-01 08 02,1966-07-29,True
+Göran,Olofsson,Ängstorget 87,Borlänge,67120,Sverige,SE,19490320-8734,+46,08-63 18 08,1949-03-20,True
+Einar,Gulbrandsen,Johannessenhavna 10,Olaøy,6806,Nobge,NO,19640420-7045,+47,86 82 03 32,1964-04-20,True
+Øyvind,Nygård,Hagenstien 1F,Malineid,6178,Norge,NO,19671111-1938,+47,+47 00 84 65 52,1967-11-11,True
+Yvonne,Eriksson,Storgatan 49,Jönköping,75628,Sverige,SE,19460904-7985,+46,0815-33 99 07,1946-09-04,True
+Maria,Ottosson,Skolvägen 749,Motala,10726,Sverige,SE,19580906-6482,+46,08-905 69 74,1958-09-06,True
+Elisabeth,Olsson,Skogsvägen 833,Östersund,54148,Sverige,SE,19650609-2867,+46,08-99 51 38,1965-06-09,True
+Maria,Ballard,Jessica Ways 710,Delacruzmouth,37554,Danmark,DK,19760212-5193,+45,4737267510,1976-02-12,True
+Anders,Henriksson,Kyrkotorget 1,Varberg,92114,Sverige,SE,19850105-2620,+46,+46 (0)072 325 44,1985-01-05,True
+Ingrid,Höglund,Skolstigen 5,Lidköping,81431,Sverige,SE,19640109-1930,+46,+46 (0)78 95 76 60,1964-01-09,True
+Brittany,Thompson,Moore Pine 5833,West Kellyland,84573,Danmark,DK,19740113-4318,+45,9289986840,1974-01-13,True
+Lise,Aas,Moenengen 5,Jenssen,2169,Norge,NO,19560506-3287,+47,+4717643065,1956-05-06,True
+Dan,Andersson,Stationsvägen 00,Lidingö,81476,Sverige,SE,19470422-4048,+46,08-437 28 14,1947-04-22,True
+William,Edlund,Fabrikstorget 371,Borlänge,36927,Sverige,SE,19610802-4210,+46,+46 (0)211 907 43,1961-08-02,True
+Maria,Petersson,Idrottsgränd 953,Malmö,98055,Sverige,SE,19450324-0695,+46,0469-24 22 05,1945-03-24,True
+Harry,Persson,Aspgatan 425,Sundsvall,29453,Sverige,SE,19811001-7936,+46,08-050 066 91,1981-10-01,True
+Kristoffer,Hermansson,Aspgatan 78,Alingsås,72016,Sverige,SE,19561002-0300,+46,0146-47 13 52,1956-10-02,True
+Asta,Olsson,Aspgatan 86,Uddevalla,87914,Sverige,SE,19570104-4318,+46,08-24 83 00,1957-01-04,True
+Amy,Collins,Moore Plains 91176,North Derek,87329,Danmark,DK,19661231-0849,+45,(958)512-6209x6606,1966-12-31,True
+Monica,Viklund,Kyrkvägen 040,Södertälje,28005,Sverige,SE,19970406-3265,+46,08-04 91 22,1997-04-06,True
+Barbro,Bergström,Kyrkvägen 88,Eskilstuna,95991,Sverige,SE,19820729-0189,+46,019-903 38 85,1982-07-29,True
+Patrick,Shah,Eric Isle 3583,North Gregory,65406,Danmark,DK,19790618-8486,+45,001-694-281-3019x7468,1979-06-18,True
+Thea,Helland,Kristensenlyngen 4C,Finnvær,7306,Norge,NO,19590913-0789,+47,938 06 358,1959-09-13,True
+Elizabeth,Daniels,Mays Canyon 79195,Lake Darrell,93827,Danmark,DK,19680213-9429,+45,001-879-977-8015,1968-02-13,True
+Ray,Kim,Johnson Glen 50526,Mooreshire,40127,Danmark,DK,19911005-8610,+45,+1-724-404-4411,1991-10-05,True
+Elisabeth,Nord,Åkertorget 54,Södertälje,25590,Sverige,SE,19550802-9816,+46,0424-94 25 80,1955-08-02,True
+Sven,Olsson,Skolgatan 161,Mölndal,28598,Sverige,SE,19430429-6874,+46,+46 (0)8 158 174 79,1943-04-29,True
+Birgitta,Friberg,Industrigatan 97,Göteborg,59218,Sverige,SE,19601208-4470,+46,027-37 81 84,1960-12-08,True
+Linnea,Larsson,Gengränd 165,Uddevalla,80863,Sverige,SE,19570604-9005,+46,+46 (0)87 80 54 99,1957-06-04,True
+Lilian,Sjöberg,Skolvägen 0,Lund,40463,Sverige,SE,19760629-8337,+46,08-409 506 04,1976-06-29,True
+Håvard,Johnsen,Martinsenekra 1C,Sæther,5115,Norge,NO,19841123-9754,+47,+47 64 66 79 09,1984-11-23,True
+Eric,Barton,Mindy Run 05790,East Brendaland,59159,Danmark,DK,19470329-2209,+45,273-729-7171,1947-03-29,True
+Linnéa,Lundberg,Kyrkovägen 68,Östersund,32651,Sverige,SE,19980610-0702,+46,08-312 72 42,1998-06-10,True
+Olivia,Larsson,Nygränd 016,Landskrona,98382,Sverige,SE,19620912-8164,+46,076-003 96 97,1962-09-12,True
+Trine,Jensen,Solheimberget 292,Brekke,4424,Norge,NO,19411211-7743,+47,934 90 842,1941-12-11,True
+Cynthia,Johnson,Young Ridges 56690,Port Chad,51400,Danmark,DK,19531218-7410,+45,(769)377-0477x435,1953-12-18,True
+Elisabeth,Rosén,Granvägen 8,Växjö,27179,Sverige,SE,19650218-5881,+46,0103-05 01 04,1965-02-18,True
+Emma,Fredriksen,Gundersenmoen 1,Jakobsen,8833,Norge,NO,19981012-6559,+47,21782360,1998-10-12,True
+Tonje,Halvorsen,Brekkevika 78,Jakobsen,3558,Norge,NO,19750104-6008,+47,87 21 03 74,1975-01-04,True
+Torsten,Fredriksson,Genvägen 82,Linköping,42734,Sverige,SE,19580111-4940,+46,072-339 38 23,1958-01-11,True
+Charlotte,Andersson,Stationsgränd 43,Kalmar,43428,Sverige,SE,19460718-8663,+46,076-50 46 59,1946-07-18,True
+Anette,Helland,Svendsenbråten 3A,Elsebø,1919,Norge,NO,19981205-5539,+47,14 77 70 58,1998-12-05,True
+Margareta,Nyman,Storvägen 47,Falun,27268,Sverige,SE,19441021-9217,+46,08-333 408 42,1944-10-21,True
+Eva,Olsson,Parkgränd 872,Växjö,15081,Sverige,SE,19780518-4953,+46,08-107 40 03,1978-05-18,True
+Rebecka,Johansson,Ekstigen 35,Uppsala,92566,Sverige,SE,19890827-0912,+46,050-263 86 43,1989-08-27,True
+Whitney,Rubio,David Manors 567,New Garyton,36013,Danmark,DK,19990705-9522,+45,660.806.7055,1999-07-05,True
+Robert,Eklund,Björktorget 53,Örnsköldsvik,98630,Sverige,SE,19640620-9111,+46,08-91 80 29,1964-06-20,True
+Reidun,Tveit,Jacobsentoppen 6F,Pedersen,6613,Norge,NO,19560710-4870,+47,+47 14 19 47 94,1956-07-10,True
+Linnéa,Oskarsson,Ängsstigen 07,Göteborg,91177,Sverige,SE,19631202-6804,+46,039-17 73 90,1963-12-02,True
+Uno,Törnqvist,Trädgårdsgatan 82,Södertälje,47272,Sverige,SE,19970801-5271,+46,08-305 49 19,1997-08-01,True
+Anna,Johansson,Skolgränd 97,Sandviken,25555,Sverige,SE,19890518-3184,46,08-58 79 27,1989-05-18,True
+Knut,Henriksen,Mathisenhaugen 3,Helenehamn,2973,Norge,NO,19980615-5932,+47,35057204,1998-06-15,True
+Dag,Holm,Jenssenåsen 58,Helgevær,6044,Norge,NO,19481028-8280,+47,+4775354862,1948-10-28,True
+Amy,Thompson,Karen Trail 51986,North Heather,30592,Danmark,DK,19910715-7103,+45,448-655-5478,1991-07-15,True
+Øyvind,Edvardsen,Lundbråten 18,Petterhamn,6170,Norge,NO,19900622-2219,+47,27148673,1990-06-22,True
+Carolyn,Garcia,Nicholas Port 8227,Walterborough,14061,Danmark,DK,19990619-8264,+45,247.786.7018x906,1999-06-19,True
+Claes,Persson,Stationsgatan 34,Ängelholm,90902,Sverige,SE,19641221-2472,+46,0399-965 07,1964-12-21,True
+Stig,Andersson,Strandstigen 3,Skellefteå,85216,Sverige,SE,19960701-5622,+46,+46 (0)503 854 48,1996-07-01,True
+Krister,Bäckström,Järnvägstorget 74,Östersund,80627,Sverige,SE,20000518-5828,+46,010-44 08 69,2000-05-18,True
+Charlotta,Erlandsson,Villagränd 4,Linköping,54976,Sverige,SE,19641023-0652,+46,08-84 78 42,1964-10-23,True
+Mona,Haugen,Nygårdhavna 6,Sisselby,9637,Norge,NO,20000308-0758,+47,+4721410368,2000-03-08,True
+Berit,Haugland,Nygårdskrenten 48,Heidiodden,1268,Norge,NO,19950921-4950,+47,906 92 837,1995-09-21,True
+Ingegerd,Lindgren,Järnvägsvägen 08,Kalmar,61444,Sverige,SE,19900817-8443,+46,025-387 18 44,1990-08-17,True
+Elisabeth,Blomberg,Parkgränd 60,Uddevalla,79885,Sverige,SE,19730917-9013,+46,082-44 55 98,1973-09-17,True
+Nils,Moe,Nygårdroa 6G,Strøm,6910,Norge,NO,19980619-8959,+47,64 80 69 46,1998-06-19,True
+Ivar,Karlsson,Genstigen 48,Skövde,18676,Sverige,SE,19530404-0831,+46,+46 (0)267 920 96,1953-04-04,True
+Kenneth,Andersen,Madsenstykket 19,Juliestrand,5329,Norge,NO,19550813-9025,+47,02382345,1955-08-13,True
+Martha,Jennings,Crawford Circle 9453,North Sandyton,08363,Danmark,DK,19470619-6944,+45,985-871-0597,1947-06-19,True
+Maria,Haugen,Strømbråten 55,Knutsen,7907,Norge,NO,19720108-1446,+47,92 67 02 85,1972-01-08,True
+Matti,Kumpulainen,Fahlanderin puistobulevardi 1,Keminmaa,12321,Finland,FI,19670422-342L,+358,+358077538352,1967-04-22,True
+Øyvind,Helland,Bøeberget 92,Sivertsen,2408,Norge,NO,19430505-7203,+47,44862084,1943-05-05,True
+Synnøve,Haugland,Sørensentjernet 09A,Sørensen,8682,Norge,NO,19990430-0501,+47,48530454,1999-04-30,True
+Richard,Simon,Stacy Station 89524,North Misty,62129,Danmark,DK,19900505-8067,+46,6668543672,1990-05-05,True
+John,Dickson,Steele Lodge 84339,Lake Brandon,22983,Danmark,DK,19860607-4691,+45,968-491-1629x2742,1986-06-07,True
+Sofie,Vik,Martinsenfaret 6,Arildøy,8930,Norge,NO,19600925-9090,+47,+4763996066,1960-09-25,True
+Joshua,Ellis,Michael Run 46091,West Tarafort,05476,Danmark,DK,19640525-4846,+45,+1-798-982-1201x808,1964-05-25,True
+Johanna,Friberg,Skogsgränd 08,Umeå,85828,Sverige,SE,19930817-7500,+46,0587-32 18 84,1993-08-17,True
+Åke,Larsson,Strandgatan 8,Landskrona,65313,Sverige,SE,19480315-8245,+46,+46 (0)088 763 84,1948-03-15,True
+Anneli,Johansson,Kvarngränd 83,Lidköping,90058,Sverige,SE,19870918-5409,+46,08-588 811 65,1987-09-18,True
+Roy,Aune,Vikfaret 647,Isaksen,6611,Norge,NO,19970618-0037,+47,68 90 57 68,1997-06-18,True
+Erik,Carlsson,Nygatan 80,Karlskoga,37026,Sverige,SE,19520524-0231,+46,08-512 96 05,1952-05-24,True
+Petter,Christensen,Aasenmoen 63,Mikkelsen,1379,Norge,NO,19900816-9563,+47,451 61 912,1990-08-16,True
+Ella,Skoglund,Åkergränd 4,Uppsala,68478,Sverige,SE,19731202-9608,+46,084-196 36 85,1973-12-02,True
+Margit,Bergström,Björkstigen 77,Mölndal,91501,Sverige,SE,19650301-7252,+46,0307-28 53 39,1965-03-01,True
+Courtney,Cabrera,Shawn Lake 028,Brownmouth,32551,Danmark,DK,19440120-1491,+45,001-651-349-0029x3789,1944-01-20,True
+Valdemar,Karlsson,Kyrkvägen 796,Borås,98530,Sverige,SE,19930510-9164,+46,0587-241 41,1993-05-10,True
+Kajsa,Norén,Järnvägsvägen 96,Östersund,31116,Sverige,SE,19850914-0491,+46,08-68 79 73,1985-09-14,True
+Elisabeth,Andreassen,Rasmussenlia 7,Brekke,0951,Norge,NO,19740805-5003,+47,955 93 386,1974-08-05,True
+Torsten,Eriksson,Bäcktorget 61,Göteborg,69568,Sverige,SE,19581221-1886,+46,+46 (0)8 932 277 12,1958-12-21,True
+Tomas,Englund,Skogstorget 1,Borlänge,37137,Sverige,SE,19741225-8103,+46,0668-44 06 21,1974-12-25,True
+Karin,Olsson,Stationsvägen 683,Jönköping,49168,Sverige,SE,19950511-5779,+46,+46 (0)8 766 392 44,1995-05-11,True
+Roger,Holm,Myklebustskogen 88,Tonjesund,0373,Norge,NO,19880814-8534,+47,955 71 537,1988-08-14,True
+Elisabeth,Larsson,Järnvägsgatan 225,Lidingö,34413,Sverige,SE,19960216-5666,+46,08-890 05 66,1996-02-16,True
+Magdalena,Andersson,Strandgränd 8,Lund,11756,Sverige,SE,19640808-9296,+46,08-18 26 20,1964-08-08,True
+James,Johnson,Mayer Flats 28870,Vegaport,89844,Danmark,DK,19851119-9210,+45,001-480-705-5813,1985-11-19,True
+Inger,Amundsen,Hagengata 6,Mariås,4248,Norge,NO,19691220-7596,+47,457 23 926,1969-12-20,True
+Magne,Arnesen,Jenssenåsen 54,Annbø,4176,Norge,NO,19920210-5233,+47,+47 55 17 96 38,1992-02-10,True
+Arne,Sivertsen,Eidelunden 2,Sivertsen,8693,Norge,NO,19580921-3342,+47,86296283,1958-09-21,True
+Rebecca,Parrish,Michelle Underpass 302,West Davidview,80012,Danmark,DK,19580112-2837,+45,(732)273-1331,1958-01-12,True
+Leif,Lundin,Nygatan 191,Piteå,99296,Sverige,SE,20000629-9172,+46,035-37 84 58,2000-06-29,True
+Anna,Andersson,Kyrkovägen 07,Karlstad,41244,Sverige,SE,19970203-1309,+46,+46 (0)8 207 850 67,1997-02-03,True
+Sarah,Avery,Wong Tunnel 723,Christyville,78600,Danmark,DK,19440805-8855,+45,296.555.5071,1944-08-05,True
+Barbro,Bergström,Ängsgatan 90,Trelleborg,31975,Sverige,SE,19660607-2255,+46,08-345 295 51,1966-06-07,True
+Nancy,Kennedy,John Wall 752,Christopherton,19295,Danmark,DK,19731215-1308,+45,(284)823-0964x316,1973-12-15,True
+Laura,Rivers,Martinez Passage 26916,New Christinaland,78595,Danmark,DK,19590602-9899,+45,547.322.1867x26476,1959-06-02,True
+Gunnar,Lindén,Ängsstigen 1,Skellefteå,81374,Sverige,SE,19500308-5334,+46,023-33 65 25,1950-03-08,True
+Niklas,Persson,Furugatan 7,Landskrona,13930,Sverige,SE,19930829-2372,+46,0611-34 56 77,1993-08-29,True
+Sonja,Berglund,Idrottsstigen 59,Alingsås,42340,Sverige,SE,19940918-1021,+46,08-39 53 78,1994-09-18,True
+Peter,Adams,Nathaniel Parkway 744,West Sherry,08992,Danmark,DK,19421028-7027,+45,(936)834-3515x9504,1942-10-28,True
+Antero,Hämäläinen,Waseniuksen puistopolku 71,Taivalkoski,14279,Finland,FI,19560630-2496,+358,+358005634962,1956-06-30,True
+Tor,Rønning,Ellingsengata 90C,Vik,5804,Norge,NO,19640618-8070,+47,462 05 426,1964-06-18,True
+Vilhelm,Lundström,Trädgårdsgränd 675,Kristianstad,83478,Sverige,SE,19500421-7277,+46,0474-87 10 25,1950-04-21,True
+Marius,Christensen,Martinsenåsen 9,Nguyen,1395,Norge,NO,19781104-8767,+47,936 57 661,1978-11-04,True
+Ann-Marie,Björk,Kyrkgatan 372,Sundsvall,94905,Sverige,SE,19710417-0034,+46,08-91 92 81,1971-04-17,True
+Albert,Reid,Tracey Route 11011,West Erichaven,21797,Danmark,DK,19890727-5011,+45,880-574-5630x33052,1989-07-27,True
+Ann,Abrahamsen,Hellandhavna 6,Arnevær,0107,Norge,NO,20001113-2424,+47,461 57 967,2000-11-13,True
+Lina,Nilsson,Björkgatan 734,Kristianstad,81636,Sverige,SE,19720615-8792,+46,057-22 19 84,1972-06-15,True
+Ingvar,Lindqvist,Industrivägen 2,Umeå,77843,Sverige,SE,19931217-5621,+46,08-343 499 97,1993-12-17,True
+Karen,Tangen,Knutsenbakken 60B,Pettersen,0184,Norge,NO,19940809-5195,+47,40342328,1994-08-09,True
+Mona,Johnsen,Thorsenmyra 2G,Lien,3696,Norge,NO,19570930-5420,+47,+47 77 39 92 11,1957-09-30,True
+Hanna,Strand,Industrivägen 902,Halmstad,21350,Sverige,SE,19681004-9240,+46,+46 (0)490 499 62,1968-10-04,True
+Kristina,Svensson,Nygatan 6,Skellefteå,58317,Sverige,SE,19760407-4391,+46,0999-537 29,1976-04-07,True
+Janice,Padilla,Williams Square 36491,East Christopher,02419,Danmark,DK,19760107-1513,+45,3562369461,1976-01-07,True
+Marie,Möller,Ängstorget 1,Ängelholm,27797,Sverige,SE,19411111-9241,+46,08-14 62 15,1941-11-11,True
+Per,Berg,Bøekollen 6,Kirstenfjell,5534,Norge,NO,19470714-2426,+47,34 35 88 02,1947-07-14,True
+Therese,Svensson,Backvägen 385,Göteborg,35650,Sverige,SE,19960628-5534,+46,08-460 24 94,1996-06-28,True
+Tapani,Salo,Wavulininpolku 7,Rovaniemi,09056,Finland,FI,19580904-881X,+358,+358 084152141,1958-09-04,True
+Inga-Lill,Lundgren,Stationstorget 15,Malmö,49094,Sverige,SE,19821221-1171,+46,0047-457 99,1982-12-21,True
+Michelle,Cook,Kathy Burg 165,Annetteshire,14780,Danmark,DK,19471110-4191,+45,984.644.7875x39004,1947-11-10,True
+Inga,Jensen,Kyrkgatan 1,Västerås,18572,Sverige,SE,19971006-3682,+46,0634-23 77 74,1997-10-06,True
+Josef,Aronsson,Skolstigen 2,Trollhättan,59071,Sverige,SE,19820224-0436,+46,08-551 97 85,1982-02-24,True
+Nathan,Nelson,Meyer Stream 6780,West Jessicaside,10791,Danmark,DK,19870902-5191,+45,(984)281-1053,1987-09-02,True
+Keith,Forbes,Lewis Knoll 245,South Timothyport,51038,Danmark,DK,19550311-7494,+45,749-998-1146x0379,1955-03-11,True
+Lars,Melin,Backvägen 07,Alingsås,56182,Sverige,SE,19570205-7247,+46,08-77 49 56,1957-02-05,True
+Annika,Jonsson,Villatorget 997,Karlskoga,10491,Sverige,SE,19620826-4088,+46,0772-563 23,1962-08-26,True
+Astrid,Strand,Järnvägsvägen 916,Göteborg,54319,Sverige,SE,19790105-8556,+46,08-475 62 22,1979-01-05,True
+Rune,Gustafsson,Storstigen 85,Sandviken,55406,Sverige,SE,19810512-4414,+46,+46 (0)049 475 80,1981-05-12,True
+Rebecca,Pearson,Andrea Shore 04930,East Savannahside,98214,Danmark,DK,19790906-1277,+45,802.274.6651,1979-09-06,True
+Josefine,Karlsson,Stationsgatan 73,Umeå,86877,Sverige,SE,19880807-9957,+46,005-24 26 83,1988-08-07,True
+Kristina,Jansson,Idrottsstigen 1,Växjö,49802,Sverige,SE,19840604-9274,+46,+46 (0)82 35 93 19,1984-06-04,True
+Maria,Pettersson,Ringvägen 00,Västerås,81345,Sverige,SE,19470616-0436,+46,08-255 18 34,1947-06-16,True
+Emil,Pettersson,Nyvägen 5,Helsingborg,63713,Sverige,SE,19711130-2183,+46,+46 (0)55 81 41 77,1971-11-30,True
+Erik,Nygård,Halvorsenstubben 19D,Sigurdvær,6111,Norge,NO,19671105-1831,+47,41388160,1967-11-05,True
+Keith,Schwartz,April Landing 0956,West Lisa,19037,Danmark,DK,19781116-5272,+45,751-450-7621x65942,1978-11-16,True
+Elsa,Andersson,Granstigen 7,Borlänge,85645,Sverige,SE,19811002-2777,+46,0718-362 66,1981-10-02,True
+Bertil,Nilsson,Skolgränd 7,Trelleborg,11675,Sverige,SE,19640309-8528,+46,08-09 09 77,1964-03-09,True
+Jenni,Parviainen,Runoilijantie 10,Kokkola,59068,Finland,FI,19410102-160M,+358,0292104420,1941-01-02,True
+Christy,Mann,Amy Gardens 697,Johnsonburgh,44131,Danmark,DK,19420624-0821,+45,+1-940-289-5447,1942-06-24,True
+Sara,Carlsson,Skolvägen 711,Karlskrona,99023,Sversge,SE,19520516-2635,+46,+46 (0)523 147 68,1952-05-16,True
+Robin,Cherry,Garcia Estates 76659,New Kevinberg,87900,Danmark,DK,19470824-4066,+45,744.323.4924x401,1947-08-24,True
+Daniel,Josefsson,Kvarnvägen 5,Jönköping,72645,Sverige,SE,19410702-0132,+46,086-45 23 38,1941-07-02,True
+Erik,Johansson,Trädgårdsstigen 63,Stockholm,19916,Sverige,SE,19920508-7434,+46,08-57 91 01,1992-05-08,True
+Lars,Olsson,Idrottsgatan 6,Varberg,35925,Sverige,SE,19730615-9073,+46,+46 (0)086 894 71,1973-06-15,True
+Irene,Nilsson,Stationsvägen 8,Kristianstad,32899,Sverige,SE,19630614-8964,+46,054-029 63 39,1963-06-14,False
+Cathrine,Aas,Eliassenstien 27,Pettersen,9597,Norge,NO,19731104-1485,+47,46441667,1973-11-04,True
+Sune,Jakobsson,Furugränd 5,Kalmar,43328,Sverige,SE,19440614-4873,+46,030-552 35 44,1944-06-14,True
+Tuulia,Välimäki,Kolsinkuja 754,Tornio,45633,Finland,FI,19920801-1491,+358,+358737706502,1992-08-01,True
+Jesper,Möller,Furustigen 209,Karlstad,86402,Sverige,SE,19980505-8782,+46,08-45 61 69,1998-05-05,True
+Ulrika,Öhman,Bäckvägen 83,Stockholm,66218,Sverige,SE,19860413-9859,+46,+46 (0)8 684 976 74,1986-04-13,True
+Stefan,Fredriksson,Skolgatan 3,Ängelholm,57129,Sverige,SE,19491209-4370,+46,08-524 570 21,1949-12-09,True
+Jenny,Rønning,Thorsenflata 4,Aas,6619,Norge,NO,19521002-3582,+47,+47 75 05 28 39,1952-10-02,True
+Simen,Eide,Lundegrenda 348,Malingrunn,0789,Norge,NO,19700524-2408,+47,77 67 27 76,1970-05-24,True
+Erik,Gunnarsson,Björkvägen 4,Karlstad,53403,Sverige,SE,19930623-8679,+46,08-656 48 70,1993-06-23,True
+Kristina,Hedberg,Strandgatan 98,Skövde,80877,Sverige,SE,19580407-3047,+46,0275-926 83,1958-04-07,True
+Christian,Karlsson,Ringvägen 52,Ängelholm,79162,Sverige,SE,19461020-2921,+46,+46 (0)138 959 27,1946-10-20,True
+Ingrid,Berg,Hansenvollen 540,Steinvik,8542,Norge,NO,19420214-2401,+47,988 21 139,1942-02-14,True
+Adrian,Eide,Abrahamsenengen 4,Grethehamn,1104,Norge,NO,19510510-9575,+47,90282264,1951-05-10,True
+Justin,Hernandez,Thomas Row 3667,Janebury,54125,Danmark,DK,19500324-5204,+45,+1-599-673-0980x73515,1950-03-24,True
+Knut,Johannessen,Martinsentunet 8,Roarstrøm,8201,Norge,NO,19900507-1141,+47,+47 98 67 66 99,1990-05-07,True
+Hugo,Svensson,Strandgatan 80,Kristianstad,12107,Sverige,SE,19980817-1572,+46,+46 (0)64 20 08 80,1998-08-17,True
+Sigrid,Nyman,Stationstorget 653,Karlskrona,15053,Sverige,SE,19810620-4867,+46,+46 (0)742 727 06,1981-06-20,True
+Sven,Dahlberg,Ekgatan 940,Halmstad,70467,Svsrige,SE,19500602-4193,+46,08-817 68 65,1950-06-02,True
+Jonathan,Gray,Chavez Station 8262,Lisaberg,48838,Danmark,DK,19640401-7620,+45,388-585-2098x9310,1964-04-01,True
+Solveig,Björkman,Idrottsgränd 215,Trollhättan,12405,Sverige,SE,19530806-4372,+46,0548-59 73 68,1953-08-06,True
+Sofia,Vesterinen,Orisaarenbulevardi 946,Kustavi,52942,Finland,FI,19460703-344M,+358,(+358) 338484299,1946-07-03,True
+Grethe,Johansen,Solheimhagen 38,Lunde,4460,Norge,NO,19930814-1609,+47,88 26 15 23,1993-08-14,True
+Henrik,Strand,Birkelandsvingen 53F,Berntsen,5591,Norge,NO,19450101-4154,+47,98124488,1945-01-01,True
+Grethe,Ødegård,Evensenkollen 10E,Nielsen,7906,Norge,NO,19500815-2563,+47,+4786599856,1950-08-15,True
+Evert,Andersson,Strandgränd 5,Sundsvall,64346,Sverige,SE,19711021-4531,+46,0570-280 71,1971-10-21,True
+Sebastian,Persson,Skolvägen 5,Skellefteå,36543,Sverige,SE,19780121-4410,+46,08-874 980 29,1978-01-21,True
+Kent,Andersson,Nyvägen 1,Luleå,83355,Sverige,SE,19490611-6974,+46,08-586 049 50,1949-06-11,True
+Ingeborg,Karlsson,Parktorget 16,Sandviken,74238,Sverige,SE,19430216-8925,+46,+46 (0)8 374 641 29,1943-02-16,True
+Mona,Johansson,Aspvägen 66,Karlskoga,20537,Sverige,SE,19690803-1801,+46,+46 (0)8 382 703 75,1969-08-03,True
+Ulf,Gustafsson,Idrottsgatan 89,Skellefteå,78389,Sverige,SE,19821114-9834,+46,+46 (0)8 299 985 27,1982-11-14,True
+Douglas,Holt,Jones Mission 003,Garrettchester,29917,Danmark,DK,19450521-7096,+45,(406)821-7465x178,1945-05-21,True
+Todd,Gray,Wood Spurs 0068,Garrettside,21066,Danmark,DK,19710906-4037,+45,(464)526-3628x255,1971-09-06,True
+Elisabet,Eriksson,Skoltorget 687,Landskrona,42328,Sverige,SE,19761206-8721,+46,048-39 74 19,1976-12-06,True
+Sven,Gustafsson,Skoltorget 520,Trelleborg,52762,Sverige,SE,19700918-6972,+46,+46 (0)8 659 178 01,1970-09-18,True
+Daniel,Andersson,Industrigatan 8,Norrköping,66094,Sverige,SE,19880201-4241,+46,08-578 059 90,1988-02-01,True
+Danielle,Nelson,Alyssa Trace 25374,Reeseside,32826,Danmark,DK,19730106-3664,+45,001-566-310-8631x8400,1973-01-06,True
+Anneli,Lundström,Industrigatan 77,Skellefteå,10423,Sverige,SE,19750821-8943,+46,0466-92 52 74,1975-08-21,True
+Monica,Roos,Industrigatan 666,Malmö,41960,Sverige,SE,19791012-8116,+46,0517-952 29,1979-10-12,True
+Ulf,Andersson,Nystigen 728,Göteborg,27276,Sverige,SE,19900807-2413,+46,08-127 250 39,1990-08-07,True
+Åsa,Larsson,Grangatan 453,Stockholm,81917,Sverige,SE,19980523-2918,+46,08-15 55 13,1998-05-23,True
+Joakim,Nilsen,Christensenkollen 60,Tonjeby,7005,Norge,NO,19480726-1139,+47,+4700284048,1948-07-26,True
+Cheryl,Duncan,Stephen Track 4120,South Erinland,09328,Danmark,DK,19671028-4275,+45,+1-554-836-7201x969,1967-10-28,True
+Tonje,Nguyen,Bakkenmyra 6A,Helland,8572,Norge,NO,19870928-8969,+47,996 92 183,1987-09-28,True
+Gunvor,Skoglund,Kyrkogatan 902,Karlstad,48244,Sverige,SE,19570418-2515,+46,08-797 24 27,1957-04-18,True
+Maria,Hanssen,Arnesenmyra 84,Hagen,4413,Norge,NO,19900730-2278,+47,31502939,1990-07-30,True
+Niclas,Larsson,Nytorget 5,Göteborg,33295,Sverige,SE,19450513-8467,+46,053-745 95 09,1945-05-13,True
+Edward,Young,Pamela Stream 63431,East Wandaview,71077,Danmark,DK,19480919-8679,+45,406.936.3696x575,1948-09-19,True
+Robert,Moe,Auneløkka 2,Lien,3483,Norge,NO,19951211-3239,+47,+47 67 60 30 34,1995-12-11,True
+Deborah,Gallegos,Porter Valleys 05309,Lake Colleenport,37883,Danmark,DK,19941213-4764,+45,(310)480-0951,1994-12-13,True
+Katja,Heikkinen,Niemikatu 66,Parkano,11364,Finland,FI,19680526-197N,+358,+358 491020621,1968-05-26,True
+Tore,Persson,Industrigatan 571,Ängelholm,34861,Sverige,SE,19460221-3687,+46,+46 (0)8 082 509 52,1946-02-21,True
+Martin,Brekke,Bakkebråten 1,Knudsen,7554,Norge,NO,19671016-5467,+47,93245990,1967-10-16,True
+Albert,Lindberg,Bäckgränd 519,Lund,23843,Sverige,SE,19650910-4516,+46,08-385 471 18,1965-09-10,True
+Astrid,Karlsson,Backgatan 5,Stockholm,87219,Sverige,SE,19560824-6051,+46,08-38 92 04,1956-08-24,True
+Carl,Josefsson,Industristigen 35,Skellefteå,82022,Sverige,SE,19710629-9061,+46,+46 (0)532 924 66,1971-06-29,True
+Simen,Jakobsen,Edvardsenhaugen 4A,Hauge,7201,Norge,NO,19970322-7081,+47,+47 31 38 34 20,1997-03-22,True
+Vilhelm,Andersson,Fabriksgatan 333,Uppsala,44068,Sverige,SE,19890522-8591,+46,0774-91 40 91,1989-05-22,True
+Malin,Fredriksen,Sørensenhagen 5,Eiriksund,5920,Norge,NO,19690625-7792,+47,62329438,1969-06-25,True
+Aimee,Ingram,Jordan Forges 532,South Jeffreyport,31149,Danmark,DK,19460105-1027,+45,+1-390-685-4829,1946-01-05,True
+Pär,Gustafsson,Trädgårdsstigen 838,Östersund,28965,Sverige,SE,19771230-6147,+46,08-698 572 67,1977-12-30,True
+Candice,Curtis,Underwood Circles 565,East Carrie,56128,Danmark,DK,19630415-3196,+45,(958)574-7921,1963-04-15,True
+Anders,Andersson,Skolstigen 325,Alingsås,94166,Sverige,SE,19440311-3554,+46,0631-22 78 58,1944-03-11,True
+Olof,Andersson,Villatorget 4,Borås,17837,Sverige,SE,19460611-0696,+46,0193-384 61,1946-06-11,True
+Yvonne,Persson,Järnvägsgatan 0,Ängelholm,90379,Sverige,SE,19920614-2625,+46,08-952 761 47,1992-06-14,True
+Marit,Arnesen,Haugplassen 8,Haugland,1581,Norge,NO,19470104-3735,+47,91901397,1947-01-04,True
+Hunter,Galvan,Foster Circles 115,New Jennyside,08093,Danmark,DK,19501224-9299,+45,702-778-7383,1950-12-24,True
+Olof,Nilsson,Kyrktorget 1,Mölndal,10307,Sverige,SE,19710508-4156,+46,0222-645 74,1971-05-08,True
+Yngve,Lind,Kyrkogatan 08,Motala,65761,Sverige,SE,19440727-3877,+46,08-244 02 18,1944-07-27,True
+Trine,Rasmussen,Nilsenbråten 880,Pålmark,5187,Norge,NO,19480608-5544,+47,21 63 06 74,1948-06-08,True
+Nils,Lundberg,Skogsvägen 126,Skellefteå,89180,Sverige,SE,19630702-2007,+46,037-781 15 79,1963-07-02,True
+Tore,Andersson,Åkergränd 52,Trelleborg,82081,Sverige,SE,19880312-8474,+46,0543-322 39,1988-03-12,True
+Leena,Koponen,Tuohikoivunkatu 384,Taipalsaari,81214,Finland,FI,19750912-105D,+358,+358 218149898,1975-09-12,True
+Teresia,Jönsson,Skogsgränd 049,Landskrona,24815,Sverige,SE,19480704-8509,+46,+46 (0)52 27 32 48,1948-07-04,True
+Rune,Lind,Kyrkogatan 482,Landskrona,91839,Sverige,SE,19870123-8083,+46,022-81 59 32,1987-01-23,True
+Nils,Jonsson,Gentorget 16,Kalmar,71081,Sverige,SE,19730413-7924,+46,0327-54 79 08,1973-04-13,True
+Bjørn,Ruud,Moetunet 13,Paulsen,2747,Norge,NO,19791218-2263,+47,14 40 53 33,1979-12-18,True
+Gunborg,Johansson,Aspstigen 518,Karlskoga,46734,Sverige,SE,19570606-0633,+46,053-53 05 93,1957-06-06,True
+Sofia,Lindström,Trädgårdsvägen 1,Karlskrona,95867,Sverige,SE,19571105-3226,+46,085-30 61 54,1957-11-05,True
+Jan,Johansson,Idrottstorget 889,Malmö,78023,Sverige,SE,19900403-8657,+46,+46 (0)8 534 424 61,1990-04-03,True
+Anders,Karlsson,Ängsvägen 9,Örebro,39909,Sverige,SE,19410617-8673,+46,0100-202 95,1941-06-17,True
+Gerald,Shepherd,Ronald Flats 264,Ramirezside,89885,Danmark,DK,19490428-6452,+45,001-563-217-0418x66851,1949-04-28,True
+Melissa,Graham,John View 040,Gonzalezborough,88525,Danmark,DK,19740720-7663,+45,001-278-654-2326x99063,1974-07-20,True
+Pär,Hansson,Strandvägen 42,Linköping,82519,Sverige,SE,19430512-4882,+46,084-747 22 55,1943-05-12,True
+Anders,Jakobsen,Strømberget 61,Gulbrandsen,2061,Norge,NO,19840124-0393,+47,32 08 64 39,1984-01-24,True
+Jan,Johansson,Stationsgatan 01,Helsingborg,29059,Sverige,SE,19711204-6328,+46,0124-39 51 90,1971-12-04,True
+Veronica,Karlsson,Bäckstigen 176,Södertälje,38488,Sverige,SE,19900120-2897,+46,08-188 512 48,1990-01-20,True
+Helge,Karlsson,Ringgatan 6,Borås,97013,Sverige,SE,19710907-7279,+46,08-34 19 47,1971-09-07,True
+Connie,Hall,Gregory Lights 87960,Davidsonview,22248,Danmark,DK,19840323-2086,+45,+1-935-936-3931,1984-03-23,True
+Jörgen,Jonsson,Parkvägen 3,Örnsköldsvik,38586,Sverige,SE,19520421-0442,+46,0284-45 85 01,1952-04-21,True
+Sarah,Ward,Li Grove 9246,Mosstown,30838,Danmark,DK,19671031-3058,+45,(760)586-9289x555,1967-10-31,True
+Camilla,Eriksen,Lienekra 81,Johansen,3689,Norge,NO,19430117-0592,+47,99992910,1943-01-17,True
+Elin,Halvorsen,Johnsenroa 6,Ellensjøen,2576,Norgeh,NO,19780920-2982,+47,+47 84 46 69 77,1978-09-20,True
+Johan,Jonsson,Strandstigen 4,Nyköping,34990,Sverige,SE,19500218-9893,+46,021-028 12 05,1950-02-18,True
+Marianne,Ekberg,Kvarnstigen 6,Umeå,64991,Sverige,SE,19500213-0791,+46,+46 (0)76 23 70 40,1950-02-13,True
+Elisabet,Andersson,Nygatan 08,Karlskrona,28756,Sverige,SE,19511004-5886,+46,+46 (0)806 885 28,1951-10-04,True
+Kenneth,Nguyen,Fredriksenhøgda 3A,Dahl,8540,Norge,NO,19560611-4768,+47,921 80 187,1956-06-11,True
+Hannele,Elo,Porekatu 522,Lieksa,12675,Finland,FI,19471122-8022,+358,+358 82 9150951,1947-11-22,True
+Ingeborg,Engström,Bäckvägen 3,Motala,77732,Sverige,SE,19941209-9828,+46,069-63 03 88,1994-12-09,True
+Birgitta,Möller,Furuvägen 836,Stockholm,48627,Sverige,SE,19551224-4061,+46,0806-45 34 22,1955-12-24,True
+Birgitta,Wallin,Ekgränd 0,Växjö,36733,Sverige,SE,19770518-8916,+46,0880-296 04,1977-05-18,True
+Birgitta,Jansson,Idrottsgatan 064,Västerås,81368,Sverige,SE,19970626-7182,+46,+46 (0)8 535 290 05,1997-06-26,True
+Robin,Jonsson,Ängsstigen 9,Örebro,39779,Sverige,SE,19900124-3018,+46,08-768 905 91,1990-01-24,True
+Eerik,Lampinen,Gotlanninbulevardi 45,Kustavi,08775,Finland,FI,19491016-011S,+358,+358733815104,1949-10-16,True
+Angela,Henry,Lauren Drives 93440,Callahanfort,74507,Danmark,DK,20000916-1978,+45,680.591.3350x419,2000-09-16,True
+Esko,Väisänen,Fahlanderin puistokatu 37,Harjavalta,43039,Finland,FI,19600418-5971,+358,+358 117275561,1960-04-18,True
+Irene,Jonsson,Parkgatan 736,Lidingö,95067,Sverige,SE,19860226-1834,+46,08-533 803 16,1986-02-26,True
+Håvard,Rasmussen,Berntsenhagen 03,Sandersand,1788,Norge,NO,19860318-3587,+47,55117740,1986-03-18,True
+Jan,Andersson,Ringstigen 06,Lidköping,26811,Sverige,SE,19520914-9664,+46,0684-37 44 69,1952-09-14,True
+Frida,Augustsson,Parkgatan 15,Lidköping,21816,Sverige,SE,19740113-4561,+46,059-81 46 65,1974-01-13,True
+Vilho,Jaatinen,Gyldéninbulevardi 7,Eckerö,39989,Finland,FI,19700315-1224,+358,+358571259418,1970-03-15,True
+Kalervo,Kivelä,Vanha Rajakuja 645,Paltamo,15930,Finland,FI,19520714-8704,+358,+358996892539,1952-07-14,True
+Ingrid,Rønning,Moenplassen 96D,Eliodden,3709,Norge,NO,19920208-5367,+47,46160663,1992-02-08,True
+Kristina,Gustafsson,Parkvägen 0,Malmö,70845,Sverige,SE,19731023-0487,+46,+46 (0)97 92 54 36,1973-10-23,True
+Ida,Holm,Fredriksenlyngen 65A,Anndal,1952,Norge,NO,19630611-4384,+47,21 66 08 33,1963-06-11,True
+Melissa,Durham,William Road 16123,Atkinsonstad,21518,Danmark,DK,19890816-5247,+45,+1-379-827-3504,1989-08-16,True
+Nicole,Henderson,Smith Place 15520,East Tinaport,65704,Danmark,DK,19400411-9977,+45,495.576.0230x534,1940-04-11,True
+Sverre,Ali,Lietoppen 23,Pålnes,6287,Norge,NO,19681011-4923,+47,423 36 795,1968-10-11,True
+Leif,Pettersen,Moenflata 5F,Monicavær,1685,Norge,NO,19430906-0277,+47,90867806,1943-09-06,True
+Johanna,Eriksson,Industritorget 692,Karlstad,70090,Sverige,SE,19930628-9393,+46,08-009 972 96,1993-06-28,True
+Johan,Pettersson,Ekgatan 701,Stockholm,64148,Sverige,SE,19680910-7951,+46,035-078 66 42,1968-09-10,True
+Helge,Fredriksson,Bäckgränd 4,Borlänge,70238,Sverige,SE,19740201-5085,+46,011-51 05 63,1974-02-01,True
+Gunnar,Johansson,Storstigen 815,Örnsköldsvik,74707,Sverige,SE,19891220-8067,+46,0416-220 48,1989-12-20,True
+Jonas,Helland,Andersenringen 7,Paulsen,0407,Danmark,NO,19761206-8432,+47,+4749515124,1976-12-06,True
+Therese,Andersson,Backgränd 7,Lidingö,30505,Sverige,SE,19860819-1882,+46,+46 (0)04 62 11 92,1986-08-19,True
+Leif,Björklund,Kvarngränd 2,Falun,63286,Sverige,SE,19720703-0191,+46,08-029 42 11,1972-07-03,True
+Johan,Persson,Ringvägen 221,Borås,35642,Sverige,SE,19551216-4527,+46,+46 (0)57 49 84 63,1955-12-16,True
+Steinar,Hansen,Madsenløkka 96,Simonsen,2487,Norge,NO,19650913-5529,+47,62 14 06 70,1965-09-13,True
+Göran,Johnsson,Storvägen 4,Borås,66566,Sverige,SE,19660920-0833,+46,0446-28 04 43,1966-09-20,True
+Patrik,Andersson,Skolvägen 520,Landskrona,94772,Sverige,SE,19500516-5198,+46,+46 (0)770 527 75,1950-05-16,True
+Sara,Gundersen,Haugenvika 76,Asbjørnsjøen,5453,Norge,NO,19800822-7814,+47,92430500,1980-08-22,True
+Linda,Snyder,Armstrong Crescent 64032,Henrystad,08168,Danmark,DK,19980726-9633,+45,(906)584-4743,1998-07-26,True
+Robert,Haug,Fredriksengjerdet 49,Thomassen,7022,Norge,NO,19771113-0618,+47,90111004,1977-11-13,True
+Aino,Salminen,Purjetuulentie 77,Liminka,19732,Finland,FI,19480331-057R,+358,018 782 4526,1948-03-31,True
+Staffan,Larsson,Backtorget 9,Lund,53033,Sverige,SE,19570724-5616,+46,08-64 33 63,1957-07-24,True
+Gunhild,Karlsson,Ekstigen 154,Sandviken,94873,Sverige,SE,19590218-5414,+46,0485-806 88,1959-02-18,True
+Angela,Curtis,Parsons Ford 68511,Raymondland,17051,Danmark,DK,19490320-7309,+45,791.745.0106x7059,1949-03-20,True
+Tove,Nguyen,Lienvika 9A,Hagen,9959,Norge,NO,19880706-4254,+47,416 82 062,1988-07-06,True
+Erik,Bengtsson,Idrottsvägen 283,Örebro,73652,Sverige,SE,19581014-2212,+46,08-86 66 69,1958-10-14,True
+Karl,Myklebust,Thomassenstykket 1,Tangen,6821,Norge,NO,19611114-7680,+47,43900933,1961-11-14,True
+William,Magnusson,Kvarngatan 898,Lidköping,87010,Sverige,SE,20001107-8551,+46,060-86 98 88,2000-11-07,True
+Jan-Erik,Johansson,Skogstorget 53,Helsingborg,46540,Sverige,SE,20000827-8684,+46,+46 (0)247 284 05,2000-08-27,True
+Sofia,Härkönen,Vaarnabulevardi 692,Lemi,32519,Finland,FI,19791007-243J,+358,+358677468052,1979-10-07,True
+Jesper,Bergström,Parkvägen 89,Borlänge,42132,Sverige,SE,19600102-0816,+46,+46 (0)8 805 259 65,1960-01-02,True
+Anita,Bergström,Villastigen 515,Jönköping,39276,Sverige,SE,19420112-8826,+46,08-35 94 65,1942-01-12,True
+Matthew,Cannon,Benjamin Via 08420,Lake John,27040,Danmark,DK,19650821-9019,+45,001-963-227-4321x9088,1965-08-21,True
+Rolf,Boman,Ektorget 65,Karlstad,68077,Sverige,SE,19680727-1318,+46,08-709 99 41,1968-07-27,True
+Erling,Birkeland,Andresenskrenten 69E,Mathiasvåg,2810,Norge,NO,19781102-0738,+47,+47 75 46 31 91,1978-11-02,True
+Lina,Larsson,Kvarnstigen 2,Borås,10955,Sverige,SE,19910420-5581,+46,08-74 78 71,1991-04-20,True
+Inger,Andersson,Skogsvägen 5,Kristianstad,82182,Sverige,SE,19910104-2024,+46,072-204 83 41,1991-01-04,True
+Bertil,Eriksson,Kyrkgränd 922,Sundsvall,53706,Sverige,SE,19641022-4222,+46,034-736 55 32,1964-10-22,True
+Daniel,Pope,Velasquez Dale 6950,New Austin,03731,Danmark,DK,19590823-4598,+45,+1-736-900-3832x41801,1959-08-23,True
+Sofie,Svendsen,Lienhaugen 1,Tveit,9503,Norge,NO,19580502-4593,+47,498 66 901,1958-05-02,True
+Kåre,Myklebust,Olsenmyra 41D,Ingervik,6119,Norge,NO,19500301-2838,+47,425 84 738,1950-03-01,True
+Riikka,Miettinen,Porekuja 01,Luumäki,04037,Finland,FI,19561226-3195,+358,(+358) 463673659,1956-12-26,True
+Karl,Jonsson,Aspgatan 714,Karlskrona,22196,Sverige,SE,19421214-0654,+46,0545-51 41 20,1942-12-14,True
+Shawn,Ferguson,Freeman Mall 51272,East Steven,34356,Danmark,DK,19860623-0030,+45,+1-867-920-3777,1986-06-23,True
+Kent,Andersson,Idrottsgränd 3,Norrköping,33578,Sverige,SE,19481118-8455,+46,08-335 48 95,1948-11-18,True
+Kristin,Eide,Jørgensenstubben 11,Rønning,9951,Norge,NO,19531126-1871,+47,927 40 448,1953-11-26,True
+Thea,Tangen,Strandmoen 3,Marenborg,0876,Norge,NO,19401014-7895,+47,77 91 62 75,1940-10-14,True
+Sindre,Pettersen,Simonsenengen 9,Trineås,6612,Norge,NO,19790521-2666,+47,956 68 760,1979-05-21,True
+Bengt,Karlsson,Backgränd 42,Karlskoga,32016,Sverige,SE,19971230-8169,+46,0469-381 03,1997-12-30,True
+Rebecca,Deleon,Jennifer Highway 1024,Lake Tamara,35285,Danmark,DK,19770728-0445,+45,285.966.1803,1977-07-28,True
+Stig,Hansson,Nyvägen 473,Göteborg,22039,Sverige,SE,19451227-2300,+46,080-61 64 05,1945-12-27,True
+Anna,Jönsson,Skoltorget 5,Alingsås,16597,Sverige,SE,19490221-0561,+46,+46 (0)8 674 635 67,1949-02-21,True
+Fredrik,Sundström,Kyrktorget 469,Örnsköldsvik,95877,Sverige,SE,19900501-7009,+46,+46 (0)8 698 885 41,1990-05-01,True
+Tina,Meyer,Burton Villages 3644,Johnshire,41790,Danmark,DK,19820428-9882,+45,001-700-371-1280x32465,1982-04-28,True
+Åke,Eriksson,Ringgatan 62,Lidingö,98065,Sverige,SE,19720126-3403,+46,+46 (0)96 80 62 47,1972-01-26,True
+Caroline,Lundqvist,Skolgränd 742,Gävle,97859,Sverige,SE,19590526-1209,+46,08-842 29 94,1959-05-26,True
+Julie,Murray,Morris Junction 328,East Davidmouth,29960,Danmark,DK,19870124-2600,+45,837.627.3301,1987-01-24,True
+Peter,Karlsson,Kyrkovägen 6,Örebro,84084,Sverige,SE,19880328-8952,+46,0453-63 32 53,1988-03-28,True
+Marte,Thomassen,Eliassenfaret 962,Helgehamn,4086,Norge,NO,19810905-1323,+47,31566166,1981-09-05,True
+Emilie,Thorsen,Sætherlyngen 69,Pedersen,5508,Norge,NO,19621128-6679,+47,96029396,1962-11-28,True
+Maria,Lindström,Kyrkvägen 847,Nyköping,23312,Sverige,SE,19560810-1464,+46,08-937 447 50,1956-08-10,True
+Joseph,Ramos,Gilbert Estate 5219,West Danielleborough,09528,Danmark,DK,19951025-5303,+45,402.764.1812x7768,1995-10-25,True
+Arild,Karlsen,Pettersenrøa 61,Simonsen,7809,Norge,NO,19611019-3630,+47,41562662,1961-10-19,True
+Kenneth,Dudley,Michael Cliff 7129,North Julietown,58461,Danmark,DK,19590125-6711,+45,280-740-7016x02523,1959-01-25,True
+Lars,Haglund,Åkervägen 71,Trelleborg,57131,Sverige,SE,19740601-0954,46,08-100 615 11,1974-06-01,True
+Stian,Berge,Paulsenstubben 4,Vidareid,9121,Norge,NO,19890119-3882,+47,85 01 04 90,1989-01-19,True
+Kevin,Branch,Osborne Branch 9673,North Gregory,03172,Danmark,DK,19940130-3363,+45,+1-281-663-0474,1994-01-30,False
+Elsa,Malmberg,Parkstigen 694,Linköping,85973,Sverige,SE,19750305-6669,+46,+46 (0)525 411 02,1975-03-05,True
+Anna,Forsberg,Nygatan 66,Falun,43042,Sverige,SE,19650612-0206,+46,+46 (0)93 40 24 69,1965-06-12,True
+Fredrik,Nord,Skolgatan 6,Eskilstuna,68100,Sverige,SE,19600629-3510,+46,08-09 12 72,1960-06-29,True
+Monica,Hauge,Solheimhagen 13,Kristianborg,9612,Norge,NO,19540605-7014,+47,45648021,1954-06-05,True
+Solveig,Berntsen,Johnsenlunden 65,Solberg,6429,Norge,NO,19990907-7507,+47,95579303,1999-09-07,True
+Petter,Haugen,Aunetunet 6,Vegardvær,7232,Norge,NO,19720715-7699,+47,93459768,1972-07-15,True
+Nils,Löfgren,Strandgatan 17,Uppsala,30228,Sverige,SE,19550412-8782,+46,010-05 03 87,1955-04-12,True
+Sara,Isaksen,Bakketjernet 52,Evensen,8935,Norge,NO,19950708-7226,+47,40675730,1995-07-08,True
+Tiffany,Barnes,Hawkins Courts 258,Franklinview,24330,Danmark,DK,19680813-0761,+45,820-911-5541x6142,1968-08-13,True
+Melanie,Miller,Mueller Forks 72614,Tylerton,89930,Danmark,DK,19870428-5311,+45,+1-652-648-6928x3659,1987-04-28,True
+Olof,Svensson,Storvägen 541,Örnsköldsvik,15170,Norge,SE,19961115-8550,+46,062-98 51 64,1996-11-15,True
+Maria,Aalto,Ilomäenbulevardi 28,Pyhäjoki,17293,Finland,FI,19450807-470H,+358,(+358) 019014970,1945-08-07,True
+Nils,Johansson,Nytorget 609,Motala,78768,Sverige,SE,19950125-3528,+46,+46 (0)8 217 953 28,1995-01-25,True
+Elisabeth,Johansson,Björkgränd 189,Alingsås,35347,Sverige,SE,19451117-2836,+46,0586-31 96 91,1945-11-17,True
+Riitta,Suominen,Orisaarenpolku 6,Luhanka,93108,Finland,FI,19790328-657A,+358,+358330500110,1979-03-28,True
+Magnus,Madsen,Rasmussenskogen 1,Halvorsen,3511,Norge,NO,19990501-1257,+47,+47 50 84 84 35,1999-05-01,True
+Janne,Solberg,Evensenstranda 47,Lunde,8252,Norge,NO,19680416-5475,+47,23005882,1968-04-16,True
+Susan,Crawford,Prince Causeway 9367,North Normatown,40925,Danmark,DK,19940420-2530,+45,+1-907-528-0694x399,1994-04-20,True
+Donna,Combs,Collins Forest 28364,Howeberg,52492,Danmark,DK,19620418-9537,+45,(776)270-5358,1962-04-18,True
+Roland,Nilsson,Skogsgränd 24,Alingsås,62970,Sverige,SE,19570803-3673,+46,08-37 04 86,1957-08-03,True
+Klas,Pettersson,Backgatan 1,Kristianstad,89331,Sverige,SE,19940830-4467,+46,078-89 12 13,1994-08-30,True
+Karin,Jonsson,Ekgatan 05,Norrköping,26466,Sverige,SE,19630713-7577,+46,+46 (0)990 732 04,1963-07-13,True
+Brandon,Castillo,Derek Junction 7778,Sloanland,02444,Danmark,DK,19900429-6966,+45,001-710-899-8537,1990-04-29,True
+Eva,Eriksson,Bäcktorget 821,Halmstad,14790,Sverige,SE,19770320-1324,+46,0806-219 32,1977-03-20,True
+Jared,Washington,Patty Brooks 14254,Nicolemouth,48302,Danmark,DK,19621013-6152,+45,855.825.6410x21230,1962-10-13,True
+Marte,Rasmussen,Antonsenmyra 8,Marteø,2157,Norge,NO,19441008-6439,+47,+4745564747,1944-10-08,True
+Natalie,Edwards,Castillo Drive 241,Melissahaven,86867,Danmark,DK,19441020-1233,+45,990.939.2254x512,1944-10-20,True
+Benny,Persson,Idrottsgatan 8,Lidingö,54010,Sverige,SE,19470501-7470,+46,+46 (0)24 89 05 02,1947-05-01,True
+Synnøve,Bøe,Hagenekra 18B,Danielsen,3958,Norge,NO,19691213-3714,+47,+4754283045,1969-12-13,True
+Maria,Lindström,Nyvägen 7,Borås,74003,Sverige,SE,19780118-4429,+46,+46 (0)563 669 61,1978-01-18,True
+Louise,Jönsson,Idrottsgatan 210,Skövde,11458,Sverige,SE,19980226-2004,+46,+46 (0)796 724 18,1998-02-26,True
+Pekka,Korhonen,Uunisepänkatu 115,Laihia,65334,Finland,FI,19581021-7541,+358,+358058084539,1958-10-21,True
+Elina,Kortelainen,Bertel Jungin tie 06,Juva,89898,Finland,FI,19470210-450R,+358,(+358) 995324615,1947-02-10,True
+Emanuel,Olsson,Ringvägen 3,Malmö,56203,Sverige,SE,19960724-6401,+46,+46 (0)569 056 10,1996-07-24,True
+Nicholas,Pugh,Karen Islands 8318,South Claudiaburgh,84537,Danmark,DK,19620330-0586,+45,(986)621-8357x74994,1962-03-30,True
+Ryan,Raymond,Malone Cape 66916,Jameschester,86737,Danmark,DK,19420222-7910,+45,001-353-419-7409x2976,1942-02-22,True
+Märta,Jonsson,Kyrkstigen 76,Borlänge,51185,Sverige,SE,19540120-3288,+46,08-333 99 88,1954-01-20,True
+Patricia,Bradley,Kim Fall 2796,Bethville,53777,Danmark,DK,19971010-9014,+45,744-752-2300x2423,1997-10-10,True
+Emelie,Johansson,Parkgatan 5,Helsingborg,26545,Sverige,SE,19571022-8883,+46,08-510 98 66,1957-10-22,True
+Laura,Pietilä,Sapilastie 416,Kauniainen,65527,Finland,FI,19740301-357U,+358,+358658003749,1974-03-01,True
+Justin,Bridges,Sara Groves 7764,Scottport,21257,Danmark,DK,19871022-2800,+45,001-875-365-0676x628,1987-10-22,True
+Stian,Tangen,Karlsenspranget 9C,Johnfjell,1442,Norge,NO,19781028-8554,+47,484 96 939,1978-10-28,True
+Ulla,Johansson,Furugränd 05,Lidingö,28493,Sverige,SE,19751227-7460,+46,095-85 74 53,1975-12-27,True
+Andrea,Branch,James Spring 3373,Port Williammouth,01203,Danmark,DK,19521126-6965,+45,235.613.4842x277,1952-11-26,True
+Tobias,Pedersen,Mikkelsenvollen 90,Jenssen,8201,Norge,NO,19820604-8377,+47,457 16 149,1982-06-04,True
+Marie,Lundgren,Åkergatan 591,Västerås,71309,Sverige,SE,19691018-2065,+46,048-791 21 65,1969-10-18,True
+Anders,Persson,Nygatan 9,Göteborg,41536,Sverige,SE,19710820-5367,+46,+46 (0)8 116 922 18,1971-08-20,True
+Michelle,Richmond,Hensley Radial 43325,South Erinfurt,78848,Danmark,DK,19420213-5523,+45,+1-352-462-7593x8113,1942-02-13,True
+Evan,Underwood,Martin Point 3995,Jasmineton,41072,Danmark,DK,19491211-6253,+45,001-240-857-0865x08982,1949-12-11,True
+Nora,Hanssen,Myhrekroken 2,Tonjefjord,4655,Norge,NO,19410707-2625,+47,43249080,1941-07-07,True
+Ingrid,Vik,Christensengata 4A,Torillvåg,7053,Norge,NO,19760821-4315,+47,92234000,1976-08-21,True
+Jörgen,Andersson,Trädgårdsvägen 20,Nyköping,91702,Sverige,SE,19600607-2975,+46,099-34 39 14,1960-06-07,True
+Jorunn,Fredriksen,Andersenstien 6,Haugland,5239,Norge,NO,19691118-2081,+47,+47 88 48 15 64,1969-11-18,True
+Marie,Gustafsson,Aspgränd 619,Örnsköldsvik,13434,Sverige,SE,19580506-3150,+46,08-464 187 71,1958-05-06,True
+Carolina,Gustavsson,Ängsvägen 32,Alingsås,15454,Sverige,SE,19990921-6949,+46,08-581 55 04,1999-09-21,True
+Richard,Rosén,Skolgränd 190,Helsingborg,45431,Sverige,SE,19770418-2854,+46,08-09 32 95,1977-04-18,True
+Astrid,Mikkelsen,Rasmussenmyra 047,Brekke,0245,Norge,NO,19951120-9870,+47,91202138,1995-11-20,True
+Marie,Hanssen,Jensengrenda 2H,Karlby,3114,Norge,NO,19800803-7646,+47,93594084,1980-08-03,True
+Iris,Lundberg,Skogsvägen 576,Sandviken,34328,Sverige,SE,19620912-8214,+46,+46 (0)8 530 728 28,1962-09-12,True
+Sofie,Kristensen,Pettersenstien 2,Elisehelle,3069,Norge,NO,19770808-8671,+47,32 26 10 78,1977-08-08,True
+David,Smith,Lauren Square 75200,South Heatherhaven,04099,Danmark,DK,19910407-8882,+45,373-973-8905,1991-04-07,True
+Olavi,Jussila,Maasälvänkatu 2,Posio,83131,Finland,FI,19960211-274U,+358,(+358) 057785779,1996-02-11,True
+Ulrika,Pettersson,Villatorget 5,Karlstad,84171,Sverige,SE,19591008-5423,+46,0709-862 97,1959-10-08,True
+Maria,Ågren,Aspvägen 64,Alingsås,57609,Sverige,SE,19590515-6642,+46,+46 (0)80 23 38 58,1959-05-15,True
+Lauri,Timonen,Porinbulevardi 3,Sottunga,14225,Finland,FI,19490209-082V,+358,0216394462,1949-02-09,True
+Elisabeth,Månsson,Genvägen 71,Lidköping,35757,Sverige,SE,19480115-7237,+46,0916-12 15 21,1948-01-15,True
+Karl,Andreassen,Bøeringen 02A,Thomashavn,1433,Norge,NO,19841120-8811,+47,+4760292571,1984-11-20,True
+Karolina,Söderström,Bäckgränd 6,Alingsås,71789,Sverige,SE,19461216-2471,+46,0000-424 90,1946-12-16,True
+Louise,Lundberg,Storstigen 5,Luleå,40330,Sverike,SE,19970903-5038,+46,026-929 45 36,1997-09-03,True
+Helene,Larsson,Furuvägen 486,Varberg,98366,Sverige,SE,19770413-1123,+46,085-126 74 47,1977-04-13,True
+Amanda,Dunlap,Morales Grove 42502,Davismouth,87198,Danmark,DK,19991125-5302,+45,+1-349-748-4333x9076,1999-11-25,True
+Fredrik,Eriksson,Furuvägen 659,Trelleborg,34990,Sverige,SE,19641019-9822,+46,090-521 39 73,1964-10-19,True
+Ashley,Fleming,West Stream 6533,Nathanielborough,12644,Danmark,DK,19440326-3252,+45,001-491-344-3812,1944-03-26,True
+Oscar,Andersson,Villagatan 94,Växjö,88249,Sverige,SE,19970221-2030,+46,0626-802 58,1997-02-21,True
+Marcus,Nilsson,Trädgårdsvägen 36,Östersund,36306,Sverige,SE,19840330-8879,+46,094-321 83 07,1984-03-30,True
+Mari,Danielsson,Åkervägen 9,Växjö,12217,Sverige,SE,19900108-3702,+46,0626-84 66 40,1990-01-08,True
+Dan,Pettersson,Skogstorget 0,Göteborg,36774,Sverige,SE,19760528-8894,+46,0321-575 58,1976-05-28,True
+Roger,Engström,Fabriksgatan 542,Karlstad,55971,Sverige,SE,19541208-0225,+46,08-149 82 32,1954-12-08,True
+Carl,Persson,Fabrikstorget 996,Luleå,29000,Sverige,SE,19560806-4444,+46,+46 (0)66 35 20 19,1956-08-06,True
+Gertrud,Karlsson,Industrivägen 84,Borlänge,77682,Sverige,SE,19870425-6210,+46,+46 (0)8 298 862 10,1987-04-25,True
+Bertil,Börjesson,Bäckvägen 14,Jönköping,85653,Sverige,SE,19460718-3929,+46,+46 (0)32 21 45 58,1946-07-18,True
+Rolf,Svensson,Ringgatan 76,Stockholm,18966,Sverige,SE,19431022-7524,+46,08-752 96 21,1943-10-22,True
+Ingrid,Isaksson,Fabriksstigen 857,Umeå,93158,Sverige,SE,19620318-2447,+46,08-37 40 36,1962-03-18,True
+Erik,Svensson,Backvägen 756,Göteborg,72569,Sverige,SE,19520813-5154,+46,0241-38 64 71,1952-08-13,True
+Stig,Gustavsson,Ekgatan 003,Piteå,70276,Sverige,SE,19431012-0332,+46,+46 (0)8 871 831 82,1943-10-12,True
+Nancy,Ortiz,Jasmine Harbors 5376,Kristinaburgh,24850,Danmark,DK,19440804-2442,+45,(706)966-3129x80544,1944-08-04,True
+Håkon,Nielsen,Abrahamsentoppen 9,Aas,6166,Norge,NO,19641118-5733,+47,+47 49 98 85 29,1964-11-18,True
+Shelley,Peters,Willie Camp 44504,North Jacqueline,29818,Danmark,DK,19850926-8560,+45,001-418-249-1713x313,1985-09-26,True
+Aleksi,Tiihonen,Ormuspolku 481,Virolahti,21465,Finland,FI,19910708-6108,+358,+358 977058401,1991-07-08,True
+Asbjørn,Tveit,Amundsenvollen 9,Alexanderfjord,4344,Norge,NO,19611227-4903,+47,94010590,1961-12-27,True
+Rolf,Aas,Henriksenhavna 737,Nguyen,3253,Norge,NO,19800924-6366,+47,43296942,1980-09-24,True
+Raymond,Wall,Clark Pine 32233,Lindafurt,27560,Danmark,DK,19930413-2655,+45,946.306.7387x872,1993-04-13,True
+Karin,Bøe,Eidevika 9E,Kristiansen,6818,Norge,NO,19961017-1148,+47,45511509,1996-10-17,True
+Maria,Nilsson,Parktorget 279,Östersund,58693,Sverige,SE,19790422-1032,+46,+46 (0)994 865 43,1979-04-22,True
+Susan,Wilson,Collins Street 6313,Kyleview,96340,Danmark,DK,19441013-0961,+45,(399)642-9169x78619,1944-10-13,True
+Anders,Johansson,Industrigatan 80,Umeå,35753,Sverige,SE,19500928-5057,+46,0989-671 39,1950-09-28,True
+Elisabet,Andersson,Skolgränd 14,Lidköping,69746,Sverige,SE,19580530-4052,+46,001-112 39 61,1958-05-30,True
+Louise,Gunnarsson,Industrivägen 8,Örnsköldsvik,59271,Sverige,SE,19791227-5814,+46,+46 (0)793 273 42,1979-12-27,True
+Finn,Kristiansen,Tveitløkka 6,Haugen,9767,Norge,NO,19641221-3090,+47,06311661,1964-12-21,True
+Lennart,Andersson,Fabriksstigen 27,Östersund,29510,Sverige,SE,19890627-5068,+46,072-20 58 09,1989-06-27,True
+Nicholas,Jackson,Jamie Drive 313,Paulborough,11356,Danmark,DK,19650804-2900,+45,001-472-764-9650x586,1965-08-04,True
+Simen,Evensen,Bøeåsen 9,Roarnes,1596,Norge,NO,19740511-2348,+47,01523145,1974-05-11,True
+Elisabet,Andersson,Genvägen 44,Lidköping,38735,Sverige,SE,19481027-3806,+46,0915-85 04 75,1948-10-27,True
+Gun,Olsson,Parkgränd 020,Skövde,65436,Sverige,SE,19810330-8699,+46,000-28 20 00,1981-03-30,True
+Gudrun,Olsson,Ringvägen 7,Gävle,70594,Sverige,SE,19550514-3709,+46,+46 (0)583 859 25,1955-05-14,True
+Harriet,Berg,Fabriksgatan 18,Norrköping,22138,Sverige,SE,19590204-7159,+46,08-041 85 46,1959-02-04,True
+Sara,Svensson,Villagränd 6,Kalmar,54443,Sverige,SE,19600124-0805,+46,+46 (0)8 727 475 34,1960-01-24,True
+Ida,Sjöberg,Parkgatan 059,Helsingborg,61049,Sverige,SE,20000101-3720,+46,+46 (0)04 92 00 34,2000-01-01,True
+Lars,Nilsson,Furutorget 918,Gävle,73830,Sverige,SE,19430423-8027,+46,0931-46 86 93,1943-04-23,True
+Håkon,Edvardsen,Karlseneggen 59B,Asbjørndal,5083,Norge,NO,19870629-4428,+47,478 15 219,1987-06-29,True
+Philip,Johnston,Jennifer Cliff 1546,Samuelshire,04963,Danmark,DK,19500630-5507,+45,(840)424-5717x548,1950-06-30,True
+Jerry,Stark,Dickson Village 65240,Douglaschester,39429,Danmark,DK,19651016-8377,+45,864.957.8706x4835,1965-10-16,True
+Jan,Lindström,Skogsgatan 97,Mölndal,77185,Sverige,SE,19440320-2146,+46,047-906 10 02,1944-03-20,True
+Viktor,Henriksson,Ringvägen 2,Borlänge,36679,Sverige,SE,19630718-1011,+46,0787-81 13 40,1963-07-18,True
+Jan,Larsson,Kvarngränd 2,Ängelholm,27002,Sverige,SE,19980826-1255,+46,0605-233 63,1998-08-26,True
+Emma,Kristoffersen,Ruudstien 04H,Mettefjell,6387,Norge,NO,19430901-4380,+45,966 96 510,1943-09-01,True
+Kerstin,Bergström,Skolvägen 0,Trollhättan,85441,Sverige,SE,19410427-6793,+46,08-664 730 26,1941-04-27,True
+Inger,Strøm,Nilsenhagen 9,Mortennes,3542,Norge,NO,19930707-7543,+47,67 33 98 86,1993-07-07,True
+Kristin,Andresen,Iversenengen 3G,Olavodden,3319,Norge,NO,19991012-2675,+47,67 50 08 76,1999-10-12,True
+Lennart,Björk,Skolgatan 43,Karlskrona,34505,Sverige,SE,19480503-4937,+46,026-94 53 62,1948-05-03,True
+Eric,Hermansson,Björkstigen 324,Växjö,58065,Sverige,SE,19570805-2053,+46,+46 (0)744 930 73,1957-08-05,True
+Jørgen,Danielsen,Jenssenhøgda 4,Lailaø,4643,Norge,NO,19521122-1241,+47,+4745429999,1952-11-22,True
+Lars,Andersson,Ängsgatan 5,Skövde,85596,Sverige,SE,19960515-2446,+46,0228-64 66 69,1996-05-15,True
+Lena,Eriksson,Skogstorget 2,Västerås,62924,Sverige,SE,19930614-3346,+46,0230-367 00,1993-06-14,True
+Stine,Thomassen,Danielsenstien 305,Ruthmark,1026,Norge,NO,19961007-3149,+47,62 06 56 11,1996-10-07,True
+Sandra,Eriksson,Industrigränd 511,Nyköping,22899,Sverige,SE,19940801-0029,+46,08-52 30 90,1994-08-01,True
+Sissel,Eide,Andreassenlunden 887,Eiriksjøen,4785,Norge,NO,19810408-7122,+47,57 99 11 80,1981-04-08,True
+John,Dean,Morrow Passage 11051,Parkerburgh,67205,Danmark,DK,19470613-1686,+45,(241)734-0852x9275,1947-06-13,True
+Matthew,Huff,Medina Motorway 26761,Johnsonfort,31185,Danmark,DK,19940315-6354,+45,793.257.3997x63636,1994-03-15,True
+Danielle,Bailey,Chase Drive 57835,Rodriguezmouth,12473,Danmark,DK,19400301-7041,+45,(214)205-9656x93879,1940-03-01,True
+Karl,Strömberg,Björkgränd 839,Lidingö,39742,Sverige,SE,19600901-0379,+46,087-93 73 89,1960-09-01,True
+Kjell,Birkeland,Solheimringen 802,Lien,3829,Norge,NO,19400530-3541,+47,459 26 754,1940-05-30,True
+Anders,Nilsson,Bäckvägen 34,Ängelholm,97699,Sverige,SE,19810210-7519,+46,070-771 79 35,1981-02-10,True
+Zachary,White,Newman Prairie 61635,Davidbury,81922,Danmark,DK,19760623-2305,+45,+1-385-793-0596x5456,1976-06-23,True
+Siv,Jonsson,Skogstorget 111,Karlstad,52434,Sverige,SE,19460110-1825,+46,+46 (0)8 484 245 76,1946-01-10,True
+Lawrence,Thompson,Michelle Crescent 28488,Sydneyville,71721,Danmark,DK,19920213-9678,+45,664.580.7842x959,1992-02-13,True
+Stefan,Persson,Ekvägen 59,Eskilstuna,65593,Sverige,SE,19741004-4235,+46,08-222 980 22,1974-10-04,True
+Anna,Sjödin,Kyrkogatan 623,Karlstad,88104,Sverige,SE,19830502-9737,+46,0814-66 54 59,1983-05-02,True
+Gunhild,Eriksson,Industristigen 2,Östersund,38668,Sverige,SE,19440323-0535,+46,08-807 66 48,1944-03-23,True
+Robert,Jensen,Smith Forge 094,Wilsonshire,09981,Danmark,DK,19890929-6953,+45,420.270.9127x014,1989-09-29,True
+Louise,Gustavsson,Ringstigen 15,Skövde,35739,Sverige,SE,19890116-0106,+46,062-37 09 57,1989-01-16,True
+Alexander,Kemppainen,Betlehemintie 618,Siikajoki,66696,Finland,FI,19940924-1103,+358,+358 40 7109754,1994-09-24,True
+Margaretha,Axelsson,Storvägen 0,Nyköping,90070,Sverige,SE,20000214-3922,+46,+46 (0)8 352 109 46,2000-02-14,True
+Maria,Björklund,Industrigränd 45,Helsingborg,59601,Sverige,SE,19631110-5004,+46,027-00 85 84,1963-11-10,True
+Hans,Sjöberg,Aspgränd 6,Motala,32194,Sverige,SE,19450602-4266,+46,08-319 858 03,1945-06-02,True
+Laura,Reyes,Walker Loop 1674,New Mckenzie,20231,Danmark,DK,19680119-8711,+45,(990)679-8757,1968-01-19,True
+Johannes,Suominen,Vaarnakatu 3,Toholampi,32454,Finland,FI,19830820-639M,+358,(+358) 727197966,1983-08-20,True
+Ann-Christin,Gunnarsson,Industritorget 5,Karlstad,74985,Sverige,SE,19590720-7582,+46,08-802 28 00,1959-07-20,True
+Krista,Hamilton,Jacqueline Club 5845,Josemouth,23920,Danmark,DK,20000408-9177,+45,(324)498-9858x28462,2000-04-08,True
+Kim,Björk,Backvägen 58,Uddevalla,43177,Sverige,SE,19570128-5592,+46,0440-63 27 26,1957-01-28,True
+Michael,Wilson,Keller Stream 599,North Rodney,56803,Danmark,DK,19580204-1628,+45,001-939-922-3739x411,1958-02-04,True
+Marie,Moe,Sivertsenlyngen 9,Leneby,2087,Norge,NO,19780901-4665,+47,+47 09 15 80 66,1978-09-01,True
+Christoffer,Lundström,Storgränd 3,Mölndal,56616,Sverige,SE,19950505-0527,+46,031-282 83 15,1995-05-05,True
+Kaitlyn,Brooks,Taylor Fall 178,Port Jasmine,05112,Danmark,DK,19700918-1659,+45,(638)517-2687,1970-09-18,True
+Jenny,Arnesen,Moestubben 4,Sisselfoss,8243,Norge,NO,19591210-8640,+47,966 88 880,1959-12-10,True
+Hannah,Cox,Ford Parks 075,North Deborah,69020,Danmark,DK,19981030-8250,+45,(665)436-3453,1998-10-30,True
+Ryan,Nguyen,Harris Islands 2286,Deborahburgh,26670,Danmark,DK,19930605-5791,+45,+1-233-209-4770x652,1993-06-05,True
+Ulf,Isaksson,Idrottsstigen 82,Alingsås,93297,Sverige,SE,19870824-9013,+46,+46 (0)8 696 056 82,1987-08-24,True
+Maria,Andersson,Furutorget 5,Nyköping,26339,Sverige,SE,19610217-6924,+46,017-96 13 83,1961-02-17,True
+Eva,Arnesen,Bøeskrenten 2B,Benteøy,8794,Norge,NO,19610530-5248,+47,92197593,1961-05-30,True
+Bror,Möller,Bäckstigen 9,Uddevalla,69485,Sverige,SE,19490723-3743,+46,08-427 99 61,1949-07-23,True
+Andrea,Paulsen,Dahlstykket 2,Mathisen,1875,Norge,NO,19841111-8626,+47,49132645,1984-11-11,True
+Viola,Sjöström,Ängsvägen 89,Falun,76591,Sverige,SE,19450828-9662,+46,08-019 77 76,1945-08-28,True
+Bernt,Nilsson,Parktorget 18,Östersund,14071,Sverige,SE,19920612-5192,+46,+46 (0)38 12 26 19,1992-06-12,True
+Brita,Jansson,Parkgatan 8,Växjö,93331,Sverige,SE,19401227-8483,+46,08-12 94 17,1940-12-27,True
+Ragnar,Åström,Backstigen 01,Örnsköldsvik,17130,Sverige,SE,19641122-8745,+46,08-147 72 13,1964-11-22,True
+Kimberly,Rogers,Johnson Crossing 6177,Michaelhaven,25163,Danmark,DK,19960619-8342,+45,001-753-245-1093x1965,1996-06-19,True
+Åke,Andersson,Skolgatan 00,Halmstad,88809,Sverige,SE,19750322-3026,+46,0687-137 82,1975-03-22,True
+Kim,Jensen,Engenhøgda 21,Vik,5679,Norge,NO,19880429-7800,+47,471 99 492,1988-04-29,True
+Hanna,Gustafsson,Storstigen 5,Mölndal,29846,Sverige,SE,19841125-5817,+46,+46 (0)8 087 242 18,1984-11-25,True
+Mikael,Sundqvist,Storgatan 0,Uppsala,65908,Sverige,SE,19901010-6756,+46,0146-79 86 36,1990-10-10,True
+Anders,Ellingsen,Alistien 57,Danielø,9032,Norge,NO,19930701-4969,+47,52 83 37 20,1993-07-01,True
+Karl,Johansson,Granvägen 6,Mölndal,58238,Sverige,SE,19600508-1123,+46,087-657 47 95,1960-05-08,True
+Emelie,Hansson,Villagränd 9,Lidköping,80420,Sverige,SE,19930307-5250,+46,08-72 28 93,1993-03-07,True
+Jukka,Silvennoinen,Kilpolankuja 881,Nurmijärvi,81428,Finland,FI,19830121-079D,+358,+358808334384,1983-01-21,True
+Maria,Olofsson,Ringgränd 96,Skellefteå,43889,Sverige,SE,19430626-6271,+46,0440-65 15 16,1943-06-26,True
+Helene,Möller,Gengränd 9,Borlänge,45878,Sverige,SE,19740901-7642,+46,+46 (0)881 218 72,1974-09-01,True
+Caleb,Conway,Walker Manors 55141,West Kimburgh,41998,Danmark,DK,19450304-4406,+45,+1-325-876-3715x938,1945-03-04,True
+Lea,Ahokas,Nervanderinkatu 0,Lumparland,53686,Finland,FI,19521201-548R,+358,(+358) 086192313,1952-12-01,False
+Susanna,Seppälä,Pohjolantie 054,Parkano,33475,Finland,FI,19481007-553Y,358,0377850387,1948-10-07,True
+Lindsey,Olson,Sarah Plaza 20043,Davidburgh,48417,Danmark,DK,19550206-2257,+45,208.252.7502x198,1955-02-06,True
+Lene,Evensen,Jakobsentunet 1B,Runesand,5799,Norge,NO,19591219-7047,+47,43 34 68 97,1959-12-19,True
+Kevin,Richardson,Gutierrez Terrace 427,Paulamouth,77758,Danmark,DK,19990202-2272,+45,294.228.5287x6555,1999-02-02,True
+Whitney,Turner,Angela Lodge 6959,Robertport,14288,Danmark,DK,19601107-0363,+45,001-225-890-5762x03355,1960-11-07,True
