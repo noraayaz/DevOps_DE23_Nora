@@ -1,6 +1,6 @@
 ﻿# DevOps_DE23_Nora
 
-DevOps | GitHub Actions | CICD Pipeline
+DevOps | GitHub Actions | CI/CD Pipelines
 
 *  Repository named DevOps_DE23_Nora created
 
